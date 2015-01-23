@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TiroLernApp</title>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/jquery-ui.min.css">
+        <link rel="stylesheet" href="css/jquery-ui.theme.css">
+        <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBLgYs062HIkA-KSnil2Im600hZ3qBUfJc&sensor=TRUE"></script>
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+        <script src="http://js.arcgis.com/3.11/"></script>
+        <script src="js/main.js"></script>
+    </head>
+    <body> 
+        <div id="header">
+            <span id="logo">TiroLernApp</span>
+            <span id="question"></span>
+            <div id="headerRight">
+                <br>
+                <span class="score"></span><span> Punkte </span><a href="#" id="showHighscores">Highscores</a>
+                <br>
+                <span>Lernmodus </span><input id="lernmode" type="checkbox" checked/>
+            </div>
+        </div>
+        <div id="map_canvas"></div>
+        <div id="dialog-start" title="Wie gut kennst du Tirol?">
+            <p>Klicke auf die richtigen Marker!</p>
+        </div>
+        <div id="dialog-gameover" title="Game Over">
+            <p><span class="score"></span> Punkte</p>
+            <p>Bitte geben Sie ihren Nickname an</p>
+            <p><input type="text" id="nickname"/></p>
+        </div>
+        <div id="dialog-scoreboard" title="Highscores">
+            <table id="scoreboardTable">
+                <thead>
+                    <tr>
+                        <th>Rang</th>
+                        <th>Nickname</th>
+                        <th>Punkte</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

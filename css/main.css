@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08-Dec-2014, 18:09:25
+    Author     : enigma
+*/
+
+html {
+    height: 100%;
+}
+
+body { 
+    height: 100%; 
+    margin: 0; 
+    padding: 0;
+    font-family: 'Arial';
+    font-size: 12px;
+    background-color: #48512F;
+}
+
+#header {
+    height: 60px;
+    margin: auto;
+    border-bottom: 2px solid black;
+    padding: 15px;
+}
+
+#footer {
+    margin: auto;
+    background-color: #585F4C;
+    height: 40px;
+}
+
+#logo {
+    font-size: 2.8em;
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+    color: white;
+}
+
+#headerRight {
+    text-align: right;
+}
+
+#map_canvas { 
+    height: 80%;
+    border-bottom: 2px solid black;
+}
+
+#start {
+    float: left;
+}
+
+#score {
+    float: left;
+    font-weight: bold;
+}
+
+#question {
+    font-size: 2em;
+    margin-top: 16px;
+    float: left;
+    color: #9C9456;
+}
+
+#dialog-gameover {
+    display: none;
+}
+
+#dialog-scoreboard {
+    display: none;
+}
+
+#scoreboardTable {
+    width: 270px;
+    text-align: left;
+}
+
+.life {
+    margin-left: 5px;
+}
+
+#headerRight, a {
+    color: white;
+}
+
+#points {
+    margin-right: 5px;
+}

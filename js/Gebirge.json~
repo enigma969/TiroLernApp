@@ -1,0 +1,323 @@
+{
+    "berge": [
+        {
+            "attributes": {
+                "ID": 0,
+                "GIPFELNAME": "Großglockner",
+				"GEBIRGE": "Hohe Tauern",
+                "LATIDUDE": 47.073889,
+                "LONGITUDE": 12.694722,
+                "HÖHE": 3798,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Grossglockner_from_SW.jpg/800px-Grossglockner_from_SW.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 1,
+                "GIPFELNAME": "Wildspitze",
+				"GEBIRGE": "Ötztaler Alpen",
+                "LATIDUDE": 46.885278,
+                "LONGITUDE": 10.867222,
+                "HÖHE": 3768,
+				"FOTO": "http://www.tirol.tl/images/cms/1257955628wildspitze_winter.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 2,
+				"GIPFELNAME": "Birkkarspitze",
+                "GEBIRGE": "Karwendel",
+                "LATIDUDE": 47.411389,
+                "LONGITUDE": 11.4375,
+                "HÖHE": 2749,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gamsjochguppe.jpg/800px-Gamsjochguppe.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 3,
+				"GIPFELNAME": "Watzespitze",
+                "GEBIRGE": "Ötztaler Alpen",
+                "LATIDUDE": 46.989583,
+                "LONGITUDE": 10.797778,
+                "HÖHE": 3532,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/WatzespitzeFromE.jpg/800px-WatzespitzeFromE.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 4,
+				"GIPFELNAME": "Hochfeiler",
+                "GEBIRGE": "Zillertaler Alpen",
+                "LATIDUDE": 46.9725,
+                "LONGITUDE": 11.7275,
+                "HÖHE": 3509,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zllertaler_Alpen_Hochfeilernordwand.jpg/1024px-Zllertaler_Alpen_Hochfeilernordwand.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 5,
+				"GIPFELNAME": "Zuckerhütl",
+                "GEBIRGE": "Stubaier Alpen",
+                "LATIDUDE": 46.964444,
+                "LONGITUDE": 11.153611,
+                "HÖHE": 3507,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zuckerhuetl_seen_from_Wilder_Pfaff%2C_Stubai_Alps%2C_Austria.jpg/800px-Zuckerhuetl_seen_from_Wilder_Pfaff%2C_Stubai_Alps%2C_Austria.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 6,
+				"GIPFELNAME": "Westliche Praxmarerkarspitze",
+                "GEBIRGE": "Karwendel",
+                "LATIDUDE": 47.349444,
+                "LONGITUDE": 11.4,
+                "HÖHE": 2642,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Praxmarerkarspitzen.jpg/800px-Praxmarerkarspitzen.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 7,
+				"GIPFELNAME": "Mitterhorn",
+                "GEBIRGE": "Loferer Steinberge",
+                "LATIDUDE": 47.549167,
+                "LONGITUDE": 12.628611,
+                "HÖHE": 2506,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mitterhorn.JPG/800px-Mitterhorn.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 8,
+				"GIPFELNAME": "Große Galtenberg",
+                "GEBIRGE": "Kitzbüheler Alpen",
+                "LATIDUDE": 47.336667,
+                "LONGITUDE": 11.975833,
+                "HÖHE": 2424,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grosser_Galtenberg.jpg/800px-Grosser_Galtenberg.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 9,
+				"GIPFELNAME": "Acherkogel",
+                "GEBIRGE": "Stubaier Alpen",
+                "LATIDUDE": 47.189167,
+                "LONGITUDE": 10.956389,
+                "HÖHE": 3007,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Acherkogel_NW.JPG/800px-Acherkogel_NW.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 10,
+				"GIPFELNAME": "Parseierspitze",
+                "GEBIRGE": "Lechtaler Alpen",
+                "LATIDUDE": 47.174444,
+                "LONGITUDE": 10.478333,
+                "HÖHE": 3007,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Parseierspitze.jpg/800px-Parseierspitze.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 11,
+				"GIPFELNAME": "Großer Krottenkopf",
+                "GEBIRGE": "Allgäuer Alpen",
+                "LATIDUDE": 47.311389,
+                "LONGITUDE": 10.355833,
+                "HÖHE": 2656,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Grosser_Krottenkopf_von_Westen.jpg/800px-Grosser_Krottenkopf_von_Westen.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 12,
+				"GIPFELNAME": "Ellmauer Halt",
+                "GEBIRGE": "Kaisergebirge",
+                "LATIDUDE": 47.561667,
+                "LONGITUDE": 12.302222,
+                "HÖHE": 2344,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ellmauer_Halt2_HQ.jpg/800px-Ellmauer_Halt2_HQ.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 13,
+				"GIPFELNAME": "Weißkugel",
+                "GEBIRGE": "Ötztaler Alpen",
+                "LATIDUDE": 46.797805,
+                "LONGITUDE": 10.726197,
+                "HÖHE": 3739,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WeisskugelFromN.jpg/800px-WeisskugelFromN.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 14,
+				"GIPFELNAME": "Großer Möseler",
+                "GEBIRGE": "Zillertaler Alpen",
+                "LATIDUDE": 46.9925,
+                "LONGITUDE": 11.781667,
+                "HÖHE": 3480,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Grosser_Moeseler_with_Waxeggkees.jpg/800px-Grosser_Moeseler_with_Waxeggkees.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 15,
+				"GIPFELNAME": "Schrankogel",
+                "GEBIRGE": "Stubaier Alpen",
+                "LATIDUDE": 47.044722,
+                "LONGITUDE": 11.099167,
+                "HÖHE": 3497,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schrankogel_und_Schrandele.JPG/800px-Schrankogel_und_Schrandele.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 16,
+				"GIPFELNAME": "Kreuzjoch",
+                "GEBIRGE": "Kitzbüheler Alpen",
+                "LATIDUDE": 47.251389,
+                "LONGITUDE": 11.9825,
+                "HÖHE": 2558,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kreuzjoch_von_Torhelm_gesehen_070426.jpg/800px-Kreuzjoch_von_Torhelm_gesehen_070426.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 17,
+				"GIPFELNAME": "Torhelm",
+                "GEBIRGE": "Kitzbüheler Alpen",
+                "LATIDUDE": 47.271389,
+                "LONGITUDE": 12.004167,
+                "HÖHE": 2494,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhelm_080512_1100.jpg/300px-Torhelm_080512_1100.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 18,
+				"GIPFELNAME": "Fluchthorn",
+                "GEBIRGE": "Silvretta",
+                "LATIDUDE": 46.890556,
+                "LONGITUDE": 10.227222,
+                "HÖHE": 3399,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/6/67/Fluchthorn_86.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 19,
+				"GIPFELNAME": "Hoher Riffler",
+                "GEBIRGE": "Verwallgruppe",
+                "LATIDUDE": 47.116111,
+                "LONGITUDE": 10.371111,
+                "HÖHE": 3168,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hoher_Riffler.JPG/300px-Hoher_Riffler.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 20,
+				"GIPFELNAME": "Zugspitze",
+                "GEBIRGE": "Wettersteingebirge",
+                "LATIDUDE": 47.421217,
+                "LONGITUDE": 10.986314,
+                "HÖHE": 2962,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zugspitze_Westansicht.JPG/800px-Zugspitze_Westansicht.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 21,
+				"GIPFELNAME": "Hochplattig",
+                "GEBIRGE": "Mieminger Kette",
+                "LATIDUDE": 47.353056,
+                "LONGITUDE": 10.988333,
+                "HÖHE": 2768,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hochplattig_von_Untermieming.JPG/800px-Hochplattig_von_Untermieming.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 22,
+				"GIPFELNAME": "Hochiss",
+                "GEBIRGE": "Rofangebirge",
+                "LATIDUDE": 47.458333,
+                "LONGITUDE": 11.764722,
+                "HÖHE": 2299,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hochiss_2011.JPG/800px-Hochiss_2011.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 23,
+				"GIPFELNAME": "Weiße Spitze",
+                "GEBIRGE": "Hohe Tauern",
+                "LATIDUDE": 46.871389,
+                "LONGITUDE": 12.358056,
+                "HÖHE": 2962,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/WeisseSpitzeRoteSpitzeVlgtnBg.jpg/800px-WeisseSpitzeRoteSpitzeVlgtnBg.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 24,
+				"GIPFELNAME": "Ackerlspitze",
+                "GEBIRGE": "Kaisergebirge",
+                "LATIDUDE": 47.55,
+                "LONGITUDE": 11.917778,
+                "HÖHE": 2329,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ackerlspitze_und_Maukspitze.jpg/800px-Ackerlspitze_und_Maukspitze.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 25,
+				"GIPFELNAME": "Ahornspitze",
+                "GEBIRGE": "Zillertaler Alpen",
+                "LATIDUDE": 47.129167,
+                "LONGITUDE": 12.333333,
+                "HÖHE": 2973,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ahornspitze_Nordflanke.jpg/800px-Ahornspitze_Nordflanke.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 26,
+				"GIPFELNAME": "Dawinkopf",
+                "GEBIRGE": "Lechtaler Alpen",
+                "LATIDUDE": 47.166667,
+                "LONGITUDE": 10.466667,
+                "HÖHE": 2970,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Breiter_Grieskogel_NW.JPG/800px-Breiter_Grieskogel_NW.JPGhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lechtaler_Alpen.jpg/800px-Lechtaler_Alpen.jpg"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 27,
+				"GIPFELNAME": "Eisenspitze",
+                "GEBIRGE": "Lechtaler Alpen",
+                "LATIDUDE": 47.166667,
+                "LONGITUDE": 10.445833,
+                "HÖHE": 2859,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Eisenspitze.JPG/800px-Eisenspitze.JPG"
+            }
+        },
+		{
+            "attributes": {
+                "ID": 28,
+				"GIPFELNAME": "Ödkarspitzen",
+                "GEBIRGE": "Karwendel",
+                "LATIDUDE": 47.4125,
+                "LONGITUDE": 11.424167,
+                "HÖHE": 2745,
+				"FOTO": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Oedkarspitzen.jpg/800px-Oedkarspitzen.jpg"
+            }
+        }
+    ]
+}

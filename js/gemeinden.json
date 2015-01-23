@@ -1,0 +1,4790 @@
+{"root": [
+    {
+        "attributes": {
+            "FID": 0,
+            "GEMNR": 70411,
+            "STAND": 1287532800000,
+            "ADRKEY": "7041103991",
+            "SNAME": "Schwarzseestraße",
+            "PLZ": 6370,
+            "GEMNAME": "Kitzbühel",
+            "HNR": "1a",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1302307
+        },
+        "geometry": {
+            "y": 258542.16709999926,
+            "x": 154814.29750000034
+        }
+    },
+    {
+        "attributes": {
+            "FID": 90,
+            "GEMNR": 70224,
+            "STAND": 1001030400000,
+            "ADRKEY": "7022400531",
+            "SNAME": "Larchach",
+            "PLZ": 6473,
+            "GEMNAME": "Wenns",
+            "HNR": "589",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1468777
+        },
+        "geometry": {
+            "y": 224584.03109999932,
+            "x": 28985.806599999778
+        }
+    },
+    {
+        "attributes": {
+            "FID": 180,
+            "GEMNR": 70724,
+            "STAND": 1312934400000,
+            "ADRKEY": "7072400022",
+            "SNAME": "Jagdhaus",
+            "PLZ": 9963,
+            "GEMNAME": "St. Jakob in Defereggen",
+            "HNR": "16",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1276960
+        },
+        "geometry": {
+            "y": 205895.98640000075,
+            "x": 139391.61309999973
+        }
+    },
+    {
+        "attributes": {
+            "FID": 223,
+            "GEMNR": 70521,
+            "STAND": 942278400000,
+            "ADRKEY": "7052100048",
+            "SNAME": "Südtirolerstraße",
+            "PLZ": 6240,
+            "GEMNAME": "Rattenberg",
+            "HNR": "48",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1468607
+        },
+        "geometry": {
+            "y": 256828.98179999925,
+            "x": 117667.3507000003
+        }
+    },
+    {
+        "attributes": {
+            "FID": 315,
+            "GEMNR": 70511,
+            "STAND": 1367193600000,
+            "ADRKEY": "7051100906",
+            "SNAME": "Bahnweg",
+            "PLZ": 6322,
+            "GEMNAME": "Kirchbichl",
+            "HNR": "2",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1279337
+        },
+        "geometry": {
+            "y": 263984.8412999995,
+            "x": 131031.2566999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 398,
+            "GEMNR": 70620,
+            "STAND": 1320624000000,
+            "ADRKEY": "7062000510",
+            "SNAME": "Ried i.O.",
+            "PLZ": 6531,
+            "GEMNAME": "Ried im Oberinntal",
+            "HNR": "299",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1249389
+        },
+        "geometry": {
+            "y": 213191.8794999998,
+            "x": 24334.806599999778
+        }
+    },
+    {
+        "attributes": {
+            "FID": 567,
+            "GEMNR": 70346,
+            "STAND": 980208000000,
+            "ADRKEY": "7034600853",
+            "SNAME": "Gartenweg",
+            "PLZ": 6063,
+            "GEMNAME": "Rum",
+            "HNR": "9",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1359149
+        },
+        "geometry": {
+            "y": 238396.1537999995,
+            "x": 84840.49689999968
+        }
+    },
+    {
+        "attributes": {
+            "FID": 701,
+            "GEMNR": 70360,
+            "STAND": 1065571200000,
+            "ADRKEY": "7036000095",
+            "SNAME": "Moargasse",
+            "PLZ": 6075,
+            "GEMNAME": "Tulfes",
+            "HNR": "2",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1424523
+        },
+        "geometry": {
+            "y": 235974.35649999976,
+            "x": 90553.1015999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 884,
+            "GEMNR": 70366,
+            "STAND": 1330473600000,
+            "ADRKEY": "7036600441",
+            "SNAME": "Wattenberg",
+            "PLZ": 6113,
+            "GEMNAME": "Wattenberg",
+            "HNR": "77b",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1049497
+        },
+        "geometry": {
+            "y": 235852.39279999956,
+            "x": 97042.48440000042
+        }
+    },
+    {
+        "attributes": {
+            "FID": 1273,
+            "GEMNR": 70358,
+            "STAND": 1049673600000,
+            "ADRKEY": "7035801063",
+            "SNAME": "Dörferstraße",
+            "PLZ": 6065,
+            "GEMNAME": "Thaur",
+            "HNR": "2",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1371338
+        },
+        "geometry": {
+            "y": 239615.83750000037,
+            "x": 85786.73539999966
+        }
+    },
+    {
+        "attributes": {
+            "FID": 1431,
+            "GEMNR": 70204,
+            "STAND": 1276732800000,
+            "ADRKEY": "7020400298",
+            "SNAME": "Ried",
+            "PLZ": 6492,
+            "GEMNAME": "Imsterberg",
+            "HNR": "22",
+            "OBJEKT": "ADRE",
+            "OBJECTID": 1328947
+        },
+        "geometry": {
+            "y": 229668.9299999997,
+            "x": 27461.349999999627
+        }
+    },
+    {
+        "attributes": {
+            "FID": 1636,
+            "GEMNR": 70317,
+            "STAND": 1312243200000,
+            "ADRKEY": "7031700062",
+            "SNAME": "Gschnitz",
+            "PLZ": 6150,
+            "GEMNAME": "Gschnitz",
+            "HNR": "14",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1225081
+        },
+        "geometry": {
+            "y": 212129.81499999948,
+            "x": 77143.08839999977
+        }
+    },
+    {
+        "attributes": {
+            "FID": 1807,
+            "GEMNR": 70334,
+            "STAND": 1043625600000,
+            "ADRKEY": "7033400083",
+            "SNAME": "Sonnenweg",
+            "PLZ": 6167,
+            "GEMNAME": "Neustift im Stubaital",
+            "HNR": "1",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1381869
+        },
+        "geometry": {
+            "y": 221186.11759999953,
+            "x": 76417.20650000032
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2064,
+            "GEMNR": 70910,
+            "STAND": 1321401600000,
+            "ADRKEY": "7091000019",
+            "SNAME": "Fasserweg",
+            "PLZ": 6264,
+            "GEMNAME": "Fügenberg",
+            "HNR": "39",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1303136
+        },
+        "geometry": {
+            "y": 248339.34310000017,
+            "x": 114053.37540000025
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2134,
+            "GEMNR": 70209,
+            "STAND": 1006041600000,
+            "ADRKEY": "7020900123",
+            "SNAME": "Höhenweg",
+            "PLZ": 6414,
+            "GEMNAME": "Mieming",
+            "HNR": "61",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1372311
+        },
+        "geometry": {
+            "y": 241312.17129999958,
+            "x": 48009.819400000386
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2451,
+            "GEMNR": 70336,
+            "STAND": 1197849600000,
+            "ADRKEY": "7033600075",
+            "SNAME": "Außertal",
+            "PLZ": 6157,
+            "GEMNAME": "Obernberg am Brenner",
+            "HNR": "34",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1344749
+        },
+        "geometry": {
+            "y": 209071.2740000002,
+            "x": 82769.16299999971
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2492,
+            "GEMNR": 70927,
+            "STAND": 1205798400000,
+            "ADRKEY": "7092700660",
+            "SNAME": "Burgstall",
+            "PLZ": 6290,
+            "GEMNAME": "Schwendau",
+            "HNR": "370a",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1345138
+        },
+        "geometry": {
+            "y": 227878.01290000044,
+            "x": 115880.56819999963
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2493,
+            "GEMNR": 70332,
+            "STAND": 1006992000000,
+            "ADRKEY": "7033200404",
+            "SNAME": "Dorfplatz",
+            "PLZ": 6161,
+            "GEMNAME": "Natters",
+            "HNR": "2",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1469649
+        },
+        "geometry": {
+            "y": 233283.38480000012,
+            "x": 78785.31989999954
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2541,
+            "GEMNR": 70703,
+            "STAND": 1345593600000,
+            "ADRKEY": "7070300134",
+            "SNAME": "Brunnenstraße",
+            "PLZ": 9908,
+            "GEMNAME": "Amlach",
+            "HNR": "37",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1035660
+        },
+        "geometry": {
+            "y": 188572.86150000058,
+            "x": 185234.67339999974
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2576,
+            "GEMNR": 70716,
+            "STAND": 1313971200000,
+            "ADRKEY": "7071600846",
+            "SNAME": "Iseltaler Straße",
+            "PLZ": 9900,
+            "GEMNAME": "Lienz",
+            "HNR": "8",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1447735
+        },
+        "geometry": {
+            "y": 190650.9364,
+            "x": 184897.6009999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2703,
+            "GEMNR": 70222,
+            "STAND": 1139356800000,
+            "ADRKEY": "7022200497",
+            "SNAME": "Kappenzipfl",
+            "PLZ": 6464,
+            "GEMNAME": "Tarrenz",
+            "HNR": "21",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1377117
+        },
+        "geometry": {
+            "y": 235946.91310000047,
+            "x": 32850.70299999975
+        }
+    },
+    {
+        "attributes": {
+            "FID": 2877,
+            "GEMNR": 70823,
+            "STAND": 1245196800000,
+            "ADRKEY": "7082300019",
+            "SNAME": "Kelmen",
+            "PLZ": 6623,
+            "GEMNAME": "Namlos",
+            "HNR": "1",
+            "OBJEKT": "ADR",
+            "OBJECTID": 645201
+        },
+        "geometry": {
+            "y": 247911.10319999978,
+            "x": 26376.77170000039
+        }
+    },
+    {
+        "attributes": {
+            "FID": 3059,
+            "GEMNR": 70801,
+            "STAND": 998611200000,
+            "ADRKEY": "7080100149",
+            "SNAME": "Bach",
+            "PLZ": 6653,
+            "GEMNAME": "Bach",
+            "HNR": "51",
+            "OBJEKT": "ADR",
+            "OBJECTID": 330815
+        },
+        "geometry": {
+            "y": 236091.2982999999,
+            "x": 5160.898299999535
+        }
+    },
+    {
+        "attributes": {
+            "FID": 3171,
+            "GEMNR": 70834,
+            "STAND": 1166486400000,
+            "ADRKEY": "7083400073",
+            "SNAME": "Vorderhornbach",
+            "PLZ": 6645,
+            "GEMNAME": "Vorderhornbach",
+            "HNR": "23",
+            "OBJEKT": "ADR",
+            "OBJECTID": 890390
+        },
+        "geometry": {
+            "y": 247910.2087999992,
+            "x": 15582.55680000037
+        }
+    },
+    {
+        "attributes": {
+            "FID": 4604,
+            "GEMNR": 70310,
+            "STAND": 1279238400000,
+            "ADRKEY": "7031001151",
+            "SNAME": "Medrazerstraße",
+            "PLZ": 6166,
+            "GEMNAME": "Fulpmes",
+            "HNR": "49",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1410669
+        },
+        "geometry": {
+            "y": 223634.18209999986,
+            "x": 76853.4793999996
+        }
+    },
+    {
+        "attributes": {
+            "FID": 5126,
+            "GEMNR": 70223,
+            "STAND": 1289174400000,
+            "ADRKEY": "7022300260",
+            "SNAME": "Östen",
+            "PLZ": 6441,
+            "GEMNAME": "Umhausen",
+            "HNR": "14",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1371119
+        },
+        "geometry": {
+            "y": 224484.72629999928,
+            "x": 44222.117899999954
+        }
+    },
+    {
+        "attributes": {
+            "FID": 5754,
+            "GEMNR": 70803,
+            "STAND": 1055462400000,
+            "ADRKEY": "7080300358",
+            "SNAME": "Fernpaßstraße",
+            "PLZ": 6633,
+            "GEMNAME": "Biberwier",
+            "HNR": "26",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1345675
+        },
+        "geometry": {
+            "y": 249506.63599999994,
+            "x": 42182.20129999984
+        }
+    },
+    {
+        "attributes": {
+            "FID": 7803,
+            "GEMNR": 70905,
+            "STAND": 1293408000000,
+            "ADRKEY": "7090500136",
+            "SNAME": "Maurach",
+            "PLZ": 6220,
+            "GEMNAME": "Buch in Tirol",
+            "HNR": "269a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1391582
+        },
+        "geometry": {
+            "y": 250299.05599999987,
+            "x": 109852.91359999962
+        }
+    },
+    {
+        "attributes": {
+            "FID": 7817,
+            "GEMNR": 70907,
+            "STAND": 1326326400000,
+            "ADRKEY": "7090701058",
+            "SNAME": "Ebener Straße",
+            "PLZ": 6212,
+            "GEMNAME": "Eben am Achensee",
+            "HNR": "95",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1392790
+        },
+        "geometry": {
+            "y": 253761.32200000063,
+            "x": 107940.8284
+        }
+    },
+    {
+        "attributes": {
+            "FID": 7854,
+            "GEMNR": 70918,
+            "STAND": 1366156800000,
+            "ADRKEY": "7091800214",
+            "SNAME": "Kaltenbacher Landstraße",
+            "PLZ": 6272,
+            "GEMNAME": "Kaltenbach",
+            "HNR": "36",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1221229
+        },
+        "geometry": {
+            "y": 240238.45940000005,
+            "x": 116702.43140000012
+        }
+    },
+    {
+        "attributes": {
+            "FID": 7975,
+            "GEMNR": 70710,
+            "STAND": 1348704000000,
+            "ADRKEY": "7071000136",
+            "SNAME": "Lahnberg",
+            "PLZ": 9932,
+            "GEMNAME": "Innervillgraten",
+            "HNR": "40",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1287254
+        },
+        "geometry": {
+            "y": 188822.68150000088,
+            "x": 153240.24600000028
+        }
+    },
+    {
+        "attributes": {
+            "FID": 8012,
+            "GEMNR": 70715,
+            "STAND": 1245283200000,
+            "ADRKEY": "7071500217",
+            "SNAME": "Gries",
+            "PLZ": 9909,
+            "GEMNAME": "Leisach",
+            "HNR": "1",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1340362
+        },
+        "geometry": {
+            "y": 187830.90640000068,
+            "x": 184151.43200000003
+        }
+    },
+    {
+        "attributes": {
+            "FID": 8042,
+            "GEMNR": 70920,
+            "STAND": 1341273600000,
+            "ADRKEY": "7092001438",
+            "SNAME": "Schweinberg",
+            "PLZ": 6290,
+            "GEMNAME": "Mayrhofen",
+            "HNR": "40b",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1364613
+        },
+        "geometry": {
+            "y": 229005.1085000001,
+            "x": 116971.56909999996
+        }
+    },
+    {
+        "attributes": {
+            "FID": 8378,
+            "GEMNR": 70408,
+            "STAND": 963878400000,
+            "ADRKEY": "7040800945",
+            "SNAME": "Bachauweg",
+            "PLZ": 6373,
+            "GEMNAME": "Jochberg",
+            "HNR": "14",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1027181
+        },
+        "geometry": {
+            "y": 250496.35590000078,
+            "x": 157684.62019999977
+        }
+    },
+    {
+        "attributes": {
+            "FID": 8638,
+            "GEMNR": 70809,
+            "STAND": 999561600000,
+            "ADRKEY": "7080900186",
+            "SNAME": "Elmen",
+            "PLZ": 6644,
+            "GEMNAME": "Elmen",
+            "HNR": "6",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1340914
+        },
+        "geometry": {
+            "y": 245006.39189999923,
+            "x": 15843.190999999642
+        }
+    },
+    {
+        "attributes": {
+            "FID": 8677,
+            "GEMNR": 70210,
+            "STAND": 1246320000000,
+            "ADRKEY": "7021000056",
+            "SNAME": "Kirchweg",
+            "PLZ": 6493,
+            "GEMNAME": "Mils bei Imst",
+            "HNR": "6",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1345846
+        },
+        "geometry": {
+            "y": 229784.73890000023,
+            "x": 25783.077600000426
+        }
+    },
+    {
+        "attributes": {
+            "FID": 8989,
+            "GEMNR": 70607,
+            "STAND": 965606400000,
+            "ADRKEY": "7060700741",
+            "SNAME": "Graf",
+            "PLZ": 6500,
+            "GEMNAME": "Grins",
+            "HNR": "129c",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1267417
+        },
+        "geometry": {
+            "y": 222331.36030000076,
+            "x": 14975.859799999744
+        }
+    },
+    {
+        "attributes": {
+            "FID": 10120,
+            "GEMNR": 70308,
+            "STAND": 1063065600000,
+            "ADRKEY": "7030800110",
+            "SNAME": "Salzstraße",
+            "PLZ": 6403,
+            "GEMNAME": "Flaurling",
+            "HNR": "1a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1323772
+        },
+        "geometry": {
+            "y": 239367.46700000018,
+            "x": 59893.77809999976
+        }
+    },
+    {
+        "attributes": {
+            "FID": 10261,
+            "GEMNR": 70508,
+            "STAND": 1049673600000,
+            "ADRKEY": "7050800463",
+            "SNAME": "Kaiserbergstraße",
+            "PLZ": 6341,
+            "GEMNAME": "Ebbs",
+            "HNR": "41",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1233307
+        },
+        "geometry": {
+            "y": 278320.1253999993,
+            "x": 142154.19120000023
+        }
+    },
+    {
+        "attributes": {
+            "FID": 10287,
+            "GEMNR": 70335,
+            "STAND": 1305763200000,
+            "ADRKEY": "7033500388",
+            "SNAME": "Ried",
+            "PLZ": 6406,
+            "GEMNAME": "Oberhofen im Inntal",
+            "HNR": "32a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1456646
+        },
+        "geometry": {
+            "y": 240122.3571000006,
+            "x": 57061.49399999995
+        }
+    },
+    {
+        "attributes": {
+            "FID": 11406,
+            "GEMNR": 70306,
+            "STAND": 1197331200000,
+            "ADRKEY": "7030600029",
+            "SNAME": "Birga",
+            "PLZ": 6092,
+            "GEMNAME": "Birgitz",
+            "HNR": "22",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1446771
+        },
+        "geometry": {
+            "y": 233842.7008999996,
+            "x": 73031.23259999976
+        }
+    },
+    {
+        "attributes": {
+            "FID": 12150,
+            "GEMNR": 70202,
+            "STAND": 1224720000000,
+            "ADRKEY": "7020201318",
+            "SNAME": "Rauthweg",
+            "PLZ": 6425,
+            "GEMNAME": "Haiming",
+            "HNR": "2",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1269061
+        },
+        "geometry": {
+            "y": 235293.9383000005,
+            "x": 41155.072100000456
+        }
+    },
+    {
+        "attributes": {
+            "FID": 12320,
+            "GEMNR": 70367,
+            "STAND": 1205452800000,
+            "ADRKEY": "7036701149",
+            "SNAME": "Andrä-Angerer-Gasse",
+            "PLZ": 6112,
+            "GEMNAME": "Wattens",
+            "HNR": "4",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1293510
+        },
+        "geometry": {
+            "y": 239937.9938999992,
+            "x": 95220.81400000025
+        }
+    },
+    {
+        "attributes": {
+            "FID": 12810,
+            "GEMNR": 70303,
+            "STAND": 1204156800000,
+            "ADRKEY": "7030300280",
+            "SNAME": "Römerstraße",
+            "PLZ": 6070,
+            "GEMNAME": "Ampass",
+            "HNR": "18",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1365663
+        },
+        "geometry": {
+            "y": 236720.51249999925,
+            "x": 85758.08700000029
+        }
+    },
+    {
+        "attributes": {
+            "FID": 13594,
+            "GEMNR": 70305,
+            "STAND": 957744000000,
+            "ADRKEY": "7030500226",
+            "SNAME": "Bahnhofstraße",
+            "PLZ": 6121,
+            "GEMNAME": "Baumkirchen",
+            "HNR": "9",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1341377
+        },
+        "geometry": {
+            "y": 239591.0178999994,
+            "x": 92267.06039999984
+        }
+    },
+    {
+        "attributes": {
+            "FID": 13819,
+            "GEMNR": 70218,
+            "STAND": 1120176000000,
+            "ADRKEY": "7021800646",
+            "SNAME": "Dorfstraße",
+            "PLZ": 6432,
+            "GEMNAME": "Sautens",
+            "HNR": "141",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1281917
+        },
+        "geometry": {
+            "y": 230486.39379999973,
+            "x": 39276.84530000016
+        }
+    },
+    {
+        "attributes": {
+            "FID": 14842,
+            "GEMNR": 70922,
+            "STAND": 1199145600000,
+            "ADRKEY": "7092200060",
+            "SNAME": "Talstraße",
+            "PLZ": 6284,
+            "GEMNAME": "Ramsau im Zillertal",
+            "HNR": "41",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1404146
+        },
+        "geometry": {
+            "y": 231001.2463000007,
+            "x": 116589.95170000009
+        }
+    },
+    {
+        "attributes": {
+            "FID": 14895,
+            "GEMNR": 70348,
+            "STAND": 1022457600000,
+            "ADRKEY": "7034800033",
+            "SNAME": "Innsbruckerstraße",
+            "PLZ": 6108,
+            "GEMNAME": "Scharnitz",
+            "HNR": "345",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1231155
+        },
+        "geometry": {
+            "y": 251004.2469999995,
+            "x": 70459.23560000025
+        }
+    },
+    {
+        "attributes": {
+            "FID": 14920,
+            "GEMNR": 70931,
+            "STAND": 1209340800000,
+            "ADRKEY": "7093100392",
+            "SNAME": "Loachweg",
+            "PLZ": 6275,
+            "GEMNAME": "Stumm",
+            "HNR": "4",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1321056
+        },
+        "geometry": {
+            "y": 239228.80189999938,
+            "x": 118076.96200000029
+        }
+    },
+    {
+        "attributes": {
+            "FID": 15076,
+            "GEMNR": 70505,
+            "STAND": 1278633600000,
+            "ADRKEY": "7050501321",
+            "SNAME": "Haus",
+            "PLZ": 6252,
+            "GEMNAME": "Breitenbach am Inn",
+            "HNR": "63",
+            "OBJEKT": "ADRE",
+            "OBJECTID": 1332910
+        },
+        "geometry": {
+            "y": 260740.32699999958,
+            "x": 120807.56740000006
+        }
+    },
+    {
+        "attributes": {
+            "FID": 15892,
+            "GEMNR": 70618,
+            "STAND": 966902400000,
+            "ADRKEY": "7061800153",
+            "SNAME": "Pians",
+            "PLZ": 6551,
+            "GEMNAME": "Pians",
+            "HNR": "39",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1287639
+        },
+        "geometry": {
+            "y": 221730.06010000035,
+            "x": 13705.49990000017
+        }
+    },
+    {
+        "attributes": {
+            "FID": 16836,
+            "GEMNR": 70214,
+            "STAND": 1149120000000,
+            "ADRKEY": "7021400922",
+            "SNAME": "Oetzerau",
+            "PLZ": 6433,
+            "GEMNAME": "Oetz",
+            "HNR": "32",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1273491
+        },
+        "geometry": {
+            "y": 230542.3052999992,
+            "x": 41438.40739999991
+        }
+    },
+    {
+        "attributes": {
+            "FID": 17273,
+            "GEMNR": 70417,
+            "STAND": 942278400000,
+            "ADRKEY": "7041700535",
+            "SNAME": "Strass",
+            "PLZ": 6393,
+            "GEMNAME": "St. Ulrich am Pillersee",
+            "HNR": "40",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1416820
+        },
+        "geometry": {
+            "y": 266771.1417999994,
+            "x": 169119.76489999983
+        }
+    },
+    {
+        "attributes": {
+            "FID": 17317,
+            "GEMNR": 70329,
+            "STAND": 1085616000000,
+            "ADRKEY": "7032900819",
+            "SNAME": "Dorfstraße",
+            "PLZ": 6068,
+            "GEMNAME": "Mils",
+            "HNR": "46",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1275586
+        },
+        "geometry": {
+            "y": 238726.5786000006,
+            "x": 90402.86340000015
+        }
+    },
+    {
+        "attributes": {
+            "FID": 17367,
+            "GEMNR": 70529,
+            "STAND": 1326067200000,
+            "ADRKEY": "7052900190",
+            "SNAME": "Feldgasse",
+            "PLZ": 6344,
+            "GEMNAME": "Walchsee",
+            "HNR": "12",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1408083
+        },
+        "geometry": {
+            "y": 281460.6235000007,
+            "x": 149093.97020000033
+        }
+    },
+    {
+        "attributes": {
+            "FID": 17532,
+            "GEMNR": 70515,
+            "STAND": 1041984000000,
+            "ADRKEY": "7051500233",
+            "SNAME": "Bergweg",
+            "PLZ": 6336,
+            "GEMNAME": "Langkampfen",
+            "HNR": "2",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1394038
+        },
+        "geometry": {
+            "y": 269910.83809999935,
+            "x": 133435.04870000016
+        }
+    },
+    {
+        "attributes": {
+            "FID": 17663,
+            "GEMNR": 70340,
+            "STAND": 1323129600000,
+            "ADRKEY": "7034000415",
+            "SNAME": "Gewerbepark",
+            "PLZ": 6405,
+            "GEMNAME": "Pfaffenhofen",
+            "HNR": "11",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1279841
+        },
+        "geometry": {
+            "y": 240216.6668999996,
+            "x": 55999.544599999674
+        }
+    },
+    {
+        "attributes": {
+            "FID": 17751,
+            "GEMNR": 70342,
+            "STAND": 1211155200000,
+            "ADRKEY": "7034200139",
+            "SNAME": "Angersiedlung",
+            "PLZ": 6404,
+            "GEMNAME": "Polling in Tirol",
+            "HNR": "129",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1408777
+        },
+        "geometry": {
+            "y": 238295.5399999991,
+            "x": 61574.1174999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 17931,
+            "GEMNR": 70608,
+            "STAND": 1214265600000,
+            "ADRKEY": "7060800587",
+            "SNAME": "Mathoner Straße",
+            "PLZ": 6562,
+            "GEMNAME": "Ischgl",
+            "HNR": "44",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1320308
+        },
+        "geometry": {
+            "y": 205559.6024999991,
+            "x": -6715.222500000149
+        }
+    },
+    {
+        "attributes": {
+            "FID": 18695,
+            "GEMNR": 70709,
+            "STAND": 1198195200000,
+            "ADRKEY": "7070900216",
+            "SNAME": "Dölach",
+            "PLZ": 9961,
+            "GEMNAME": "Hopfgarten in Defereggen",
+            "HNR": "12",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1286892
+        },
+        "geometry": {
+            "y": 200800.13990000077,
+            "x": 168654.59439999983
+        }
+    },
+    {
+        "attributes": {
+            "FID": 19079,
+            "GEMNR": 70802,
+            "STAND": 1139356800000,
+            "ADRKEY": "7080200537",
+            "SNAME": "Berwang",
+            "PLZ": 6622,
+            "GEMNAME": "Berwang",
+            "HNR": "156",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1348589
+        },
+        "geometry": {
+            "y": 252363.19250000082,
+            "x": 30910.20679999981
+        }
+    },
+    {
+        "attributes": {
+            "FID": 20008,
+            "GEMNR": 70930,
+            "STAND": 1152144000000,
+            "ADRKEY": "7093000211",
+            "SNAME": "Raffl",
+            "PLZ": 6261,
+            "GEMNAME": "Strass im Zillertal",
+            "HNR": "42",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1455870
+        },
+        "geometry": {
+            "y": 250403.32950000092,
+            "x": 111236.7296000002
+        }
+    },
+    {
+        "attributes": {
+            "FID": 20030,
+            "GEMNR": 70704,
+            "STAND": 1279584000000,
+            "ADRKEY": "7070400110",
+            "SNAME": "Unterried",
+            "PLZ": 9912,
+            "GEMNAME": "Anras",
+            "HNR": "17",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1456156
+        },
+        "geometry": {
+            "y": 184519.17170000076,
+            "x": 172202.3470999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 20046,
+            "GEMNR": 70615,
+            "STAND": 959731200000,
+            "ADRKEY": "7061500351",
+            "SNAME": "Nauders",
+            "PLZ": 6543,
+            "GEMNAME": "Nauders",
+            "HNR": "252",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1405467
+        },
+        "geometry": {
+            "y": 194659.36030000076,
+            "x": 12711.9402999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 20090,
+            "GEMNR": 70718,
+            "STAND": 1069977600000,
+            "ADRKEY": "7071800442",
+            "SNAME": "Nikolsdorf",
+            "PLZ": 9782,
+            "GEMNAME": "Nikolsdorf",
+            "HNR": "132",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1237594
+        },
+        "geometry": {
+            "y": 186134.30939999968,
+            "x": 196735.2379999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 20119,
+            "GEMNR": 70624,
+            "STAND": 976838400000,
+            "ADRKEY": "7062400370",
+            "SNAME": "Dorfbahnstraße",
+            "PLZ": 6534,
+            "GEMNAME": "Serfaus",
+            "HNR": "52",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1319733
+        },
+        "geometry": {
+            "y": 211153.2703000009,
+            "x": 20578.080000000075
+        }
+    },
+    {
+        "attributes": {
+            "FID": 20265,
+            "GEMNR": 70822,
+            "STAND": 1005868800000,
+            "ADRKEY": "7082200132",
+            "SNAME": "Leite",
+            "PLZ": 6600,
+            "GEMNAME": "Musau",
+            "HNR": "76",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1405070
+        },
+        "geometry": {
+            "y": 265709.59979999997,
+            "x": 25838.42980000004
+        }
+    },
+    {
+        "attributes": {
+            "FID": 20372,
+            "GEMNR": 70929,
+            "STAND": 1021593600000,
+            "ADRKEY": "7092900016",
+            "SNAME": "Steinberg am Rofan",
+            "PLZ": 6215,
+            "GEMNAME": "Steinberg am Rofan",
+            "HNR": "85",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1230845
+        },
+        "geometry": {
+            "y": 265959.2478,
+            "x": 109118.98900000006
+        }
+    },
+    {
+        "attributes": {
+            "FID": 21151,
+            "GEMNR": 70720,
+            "STAND": 1316995200000,
+            "ADRKEY": "7072000578",
+            "SNAME": "Oberlienz",
+            "PLZ": 9903,
+            "GEMNAME": "Oberlienz",
+            "HNR": "64",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1350051
+        },
+        "geometry": {
+            "y": 191857.61419999972,
+            "x": 182619.53699999955
+        }
+    },
+    {
+        "attributes": {
+            "FID": 22623,
+            "GEMNR": 70352,
+            "STAND": 1168387200000,
+            "ADRKEY": "7035200579",
+            "SNAME": "Sellrain",
+            "PLZ": 6181,
+            "GEMNAME": "Sellrain",
+            "HNR": "128",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1228936
+        },
+        "geometry": {
+            "y": 229762.91110000014,
+            "x": 64239.6381000001
+        }
+    },
+    {
+        "attributes": {
+            "FID": 22653,
+            "GEMNR": 70420,
+            "STAND": 1304380800000,
+            "ADRKEY": "7042000443",
+            "SNAME": "Ried",
+            "PLZ": 6363,
+            "GEMNAME": "Westendorf",
+            "HNR": "64",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1270686
+        },
+        "geometry": {
+            "y": 255936.89699999988,
+            "x": 140833.99039999954
+        }
+    },
+    {
+        "attributes": {
+            "FID": 22656,
+            "GEMNR": 70409,
+            "STAND": 1013731200000,
+            "ADRKEY": "7040901256",
+            "SNAME": "Krinbergweg",
+            "PLZ": 6365,
+            "GEMNAME": "Kirchberg in Tirol",
+            "HNR": "23",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1450039
+        },
+        "geometry": {
+            "y": 255261.97550000064,
+            "x": 150479.51389999967
+        }
+    },
+    {
+        "attributes": {
+            "FID": 22782,
+            "GEMNR": 70344,
+            "STAND": 1032912000000,
+            "ADRKEY": "7034400219",
+            "SNAME": "Lärchenweg",
+            "PLZ": 6103,
+            "GEMNAME": "Reith bei Seefeld",
+            "HNR": "71",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1332607
+        },
+        "geometry": {
+            "y": 240673.53360000066,
+            "x": 65690.8169999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 22927,
+            "GEMNR": 70519,
+            "STAND": 1292371200000,
+            "ADRKEY": "7051900241",
+            "SNAME": "Hausern",
+            "PLZ": 6346,
+            "GEMNAME": "Niederndorferberg",
+            "HNR": "40",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1404791
+        },
+        "geometry": {
+            "y": 280932.28500000015,
+            "x": 143387.19319999963
+        }
+    },
+    {
+        "attributes": {
+            "FID": 22963,
+            "GEMNR": 70829,
+            "STAND": 942278400000,
+            "ADRKEY": "7082900162",
+            "SNAME": "Schattwald",
+            "PLZ": 6677,
+            "GEMNAME": "Schattwald",
+            "HNR": "9a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1404589
+        },
+        "geometry": {
+            "y": 263790.7492999993,
+            "x": 9755.048000000417
+        }
+    },
+    {
+        "attributes": {
+            "FID": 23042,
+            "GEMNR": 70813,
+            "STAND": 1266278400000,
+            "ADRKEY": "7081300296",
+            "SNAME": "Häselgehr",
+            "PLZ": 6651,
+            "GEMNAME": "Häselgehr",
+            "HNR": "129",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1337344
+        },
+        "geometry": {
+            "y": 240863.76799999923,
+            "x": 11722.304600000381
+        }
+    },
+    {
+        "attributes": {
+            "FID": 25332,
+            "GEMNR": 70203,
+            "STAND": 1294790400000,
+            "ADRKEY": "7020300192",
+            "SNAME": "Thomas-Walch-Straße",
+            "PLZ": 6460,
+            "GEMNAME": "Imst",
+            "HNR": "19",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1389718
+        },
+        "geometry": {
+            "y": 234293.34090000018,
+            "x": 31062.99700000044
+        }
+    },
+    {
+        "attributes": {
+            "FID": 25341,
+            "GEMNR": 70219,
+            "STAND": 1014854400000,
+            "ADRKEY": "7021900068",
+            "SNAME": "Josef-Marberger-Straße",
+            "PLZ": 6424,
+            "GEMNAME": "Silz",
+            "HNR": "1",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1464448
+        },
+        "geometry": {
+            "y": 236920.3685999997,
+            "x": 45628.79930000007
+        }
+    },
+    {
+        "attributes": {
+            "FID": 25386,
+            "GEMNR": 70333,
+            "STAND": 1222732800000,
+            "ADRKEY": "7033300886",
+            "SNAME": "Außerweg",
+            "PLZ": 6145,
+            "GEMNAME": "Navis",
+            "HNR": "100",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1287758
+        },
+        "geometry": {
+            "y": 220797.06790000014,
+            "x": 85771.57859999966
+        }
+    },
+    {
+        "attributes": {
+            "FID": 25978,
+            "GEMNR": 70902,
+            "STAND": 1205971200000,
+            "ADRKEY": "7090200717",
+            "SNAME": "Trattenweg",
+            "PLZ": 6274,
+            "GEMNAME": "Aschau im Zillertal",
+            "HNR": "9",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1415959
+        },
+        "geometry": {
+            "y": 237500.48860000074,
+            "x": 118216.42769999988
+        }
+    },
+    {
+        "attributes": {
+            "FID": 26643,
+            "GEMNR": 70941,
+            "STAND": 1237939200000,
+            "ADRKEY": "7094100166",
+            "SNAME": "Zellbergeben",
+            "PLZ": 6277,
+            "GEMNAME": "Zellberg",
+            "HNR": "35",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1341109
+        },
+        "geometry": {
+            "y": 234010.5343999993,
+            "x": 116971.24419999961
+        }
+    },
+    {
+        "attributes": {
+            "FID": 26746,
+            "GEMNR": 70401,
+            "STAND": 1245196800000,
+            "ADRKEY": "7040100707",
+            "SNAME": "Obernbergweg",
+            "PLZ": 6371,
+            "GEMNAME": "Aurach bei Kitzbühel",
+            "HNR": "20",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1272082
+        },
+        "geometry": {
+            "y": 254616.63639999926,
+            "x": 159070.8672000002
+        }
+    },
+    {
+        "attributes": {
+            "FID": 26957,
+            "GEMNR": 70419,
+            "STAND": 1350950400000,
+            "ADRKEY": "7041900915",
+            "SNAME": "Dorfstraße",
+            "PLZ": 6384,
+            "GEMNAME": "Waidring",
+            "HNR": "58",
+            "OBJEKT": "ADRE",
+            "OBJECTID": 1425316
+        },
+        "geometry": {
+            "y": 274535.4291999992,
+            "x": 167600.17140000034
+        }
+    },
+    {
+        "attributes": {
+            "FID": 28061,
+            "GEMNR": 70836,
+            "STAND": 1040256000000,
+            "ADRKEY": "7083600223",
+            "SNAME": "Oberbach",
+            "PLZ": 6671,
+            "GEMNAME": "Weißenbach am Lech",
+            "HNR": "21",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1046149
+        },
+        "geometry": {
+            "y": 255869.82890000008,
+            "x": 22935.803999999538
+        }
+    },
+    {
+        "attributes": {
+            "FID": 28077,
+            "GEMNR": 70617,
+            "STAND": 1252540800000,
+            "ADRKEY": "7061702002",
+            "SNAME": "Dorf",
+            "PLZ": 6542,
+            "GEMNAME": "Pfunds",
+            "HNR": "738",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1442910
+        },
+        "geometry": {
+            "y": 202820.3900000006,
+            "x": 15896.620000000112
+        }
+    },
+    {
+        "attributes": {
+            "FID": 28399,
+            "GEMNR": 70319,
+            "STAND": 1037145600000,
+            "ADRKEY": "7031901033",
+            "SNAME": "Schretterweg",
+            "PLZ": 6401,
+            "GEMNAME": "Inzing",
+            "HNR": "3a",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1465360
+        },
+        "geometry": {
+            "y": 237815.2951999996,
+            "x": 65177.0290000001
+        }
+    },
+    {
+        "attributes": {
+            "FID": 28733,
+            "GEMNR": 70403,
+            "STAND": 1308009600000,
+            "ADRKEY": "7040301013",
+            "SNAME": "Niederfilzen",
+            "PLZ": 6391,
+            "GEMNAME": "Fieberbrunn",
+            "HNR": "61",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1443531
+        },
+        "geometry": {
+            "y": 261129.35459999926,
+            "x": 169193.86120000016
+        }
+    },
+    {
+        "attributes": {
+            "FID": 29155,
+            "GEMNR": 70832,
+            "STAND": 1381968000000,
+            "ADRKEY": "7083200432",
+            "SNAME": "Innergschwend",
+            "PLZ": 6675,
+            "GEMNAME": "Tannheim",
+            "HNR": "8",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1415117
+        },
+        "geometry": {
+            "y": 262899.7128999997,
+            "x": 14909.821399999782
+        }
+    },
+    {
+        "attributes": {
+            "FID": 31850,
+            "GEMNR": 70513,
+            "STAND": 1143072000000,
+            "ADRKEY": "7051300600",
+            "SNAME": "Oskar Mulley-Straße",
+            "PLZ": 6330,
+            "GEMNAME": "Kufstein",
+            "HNR": "3",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1394196
+        },
+        "geometry": {
+            "y": 273569.9399999995,
+            "x": 138828.90359999985
+        }
+    },
+    {
+        "attributes": {
+            "FID": 32543,
+            "GEMNR": 70527,
+            "STAND": 1282089600000,
+            "ADRKEY": "7052701481",
+            "SNAME": "Hinterthiersee",
+            "PLZ": 6335,
+            "GEMNAME": "Thiersee",
+            "HNR": "22",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1329027
+        },
+        "geometry": {
+            "y": 273028.5192000009,
+            "x": 130546.3052000003
+        }
+    },
+    {
+        "attributes": {
+            "FID": 33297,
+            "GEMNR": 70916,
+            "STAND": 942278400000,
+            "ADRKEY": "7091600234",
+            "SNAME": "Schwendberg",
+            "PLZ": 6283,
+            "GEMNAME": "Hippach",
+            "HNR": "337",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1350990
+        },
+        "geometry": {
+            "y": 231058.72479999997,
+            "x": 115747.46999999974
+        }
+    },
+    {
+        "attributes": {
+            "FID": 33344,
+            "GEMNR": 70315,
+            "STAND": 1316044800000,
+            "ADRKEY": "7031500280",
+            "SNAME": "Tafelweg",
+            "PLZ": 6095,
+            "GEMNAME": "Grinzens",
+            "HNR": "9",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1442429
+        },
+        "geometry": {
+            "y": 231680.5725999996,
+            "x": 68101.89130000025
+        }
+    },
+    {
+        "attributes": {
+            "FID": 33419,
+            "GEMNR": 70518,
+            "STAND": 1151452800000,
+            "ADRKEY": "7051800486",
+            "SNAME": "Schützenweg",
+            "PLZ": 6342,
+            "GEMNAME": "Niederndorf",
+            "HNR": "26",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1425444
+        },
+        "geometry": {
+            "y": 280537.5689000003,
+            "x": 141614.76640000008
+        }
+    },
+    {
+        "attributes": {
+            "FID": 33707,
+            "GEMNR": 70325,
+            "STAND": 979689600000,
+            "ADRKEY": "7032500348",
+            "SNAME": "Aldranser Straße",
+            "PLZ": 6072,
+            "GEMNAME": "Lans",
+            "HNR": "10",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1417556
+        },
+        "geometry": {
+            "y": 233877.20009999909,
+            "x": 83357.85500000045
+        }
+    },
+    {
+        "attributes": {
+            "FID": 35927,
+            "GEMNR": 70837,
+            "STAND": 993513600000,
+            "ADRKEY": "7083700013",
+            "SNAME": "Zöblen",
+            "PLZ": 6677,
+            "GEMNAME": "Zöblen",
+            "HNR": "59",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1405779
+        },
+        "geometry": {
+            "y": 263516.4693,
+            "x": 11039.278300000355
+        }
+    },
+    {
+        "attributes": {
+            "FID": 35989,
+            "GEMNR": 70909,
+            "STAND": 1222128000000,
+            "ADRKEY": "7090901616",
+            "SNAME": "Kleinbodenerstraße",
+            "PLZ": 6263,
+            "GEMNAME": "Fügen",
+            "HNR": "30",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1445747
+        },
+        "geometry": {
+            "y": 244782.72660000063,
+            "x": 115047.99139999971
+        }
+    },
+    {
+        "attributes": {
+            "FID": 36190,
+            "GEMNR": 70728,
+            "STAND": 1318464000000,
+            "ADRKEY": "7072800386",
+            "SNAME": "Sillian",
+            "PLZ": 9920,
+            "GEMNAME": "Sillian",
+            "HNR": "41",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1406146
+        },
+        "geometry": {
+            "y": 181052.92750000022,
+            "x": 159283.07270000037
+        }
+    },
+    {
+        "attributes": {
+            "FID": 36273,
+            "GEMNR": 70354,
+            "STAND": 1171324800000,
+            "ADRKEY": "7035401110",
+            "SNAME": "Löfflerweg",
+            "PLZ": 6060,
+            "GEMNAME": "Hall in Tirol",
+            "HNR": "35",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1360738
+        },
+        "geometry": {
+            "y": 237940.13189999945,
+            "x": 86409.33660000004
+        }
+    },
+    {
+        "attributes": {
+            "FID": 36338,
+            "GEMNR": 70614,
+            "STAND": 1038268800000,
+            "ADRKEY": "7061400453",
+            "SNAME": "Perjenerweg",
+            "PLZ": 6500,
+            "GEMNAME": "Landeck",
+            "HNR": "20",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1313034
+        },
+        "geometry": {
+            "y": 223140.36009999923,
+            "x": 17816.13030000031
+        }
+    },
+    {
+        "attributes": {
+            "FID": 36841,
+            "GEMNR": 70733,
+            "STAND": 1315180800000,
+            "ADRKEY": "7073300083",
+            "SNAME": "Untertilliach",
+            "PLZ": 9943,
+            "GEMNAME": "Untertilliach",
+            "HNR": "11",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1460965
+        },
+        "geometry": {
+            "y": 177143.83640000038,
+            "x": 181847.9168999996
+        }
+    },
+    {
+        "attributes": {
+            "FID": 37209,
+            "GEMNR": 70939,
+            "STAND": 1166400000000,
+            "ADRKEY": "7093900493",
+            "SNAME": "Dorf",
+            "PLZ": 6210,
+            "GEMNAME": "Wiesing",
+            "HNR": "2i",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1348957
+        },
+        "geometry": {
+            "y": 252417.86060000025,
+            "x": 110327.6958999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 38177,
+            "GEMNR": 70732,
+            "STAND": 1277942400000,
+            "ADRKEY": "7073200377",
+            "SNAME": "Ehrenburgstraße",
+            "PLZ": 9907,
+            "GEMNAME": "Tristach",
+            "HNR": "9a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1388052
+        },
+        "geometry": {
+            "y": 190071.11309999973,
+            "x": 186864.01410000026
+        }
+    },
+    {
+        "attributes": {
+            "FID": 38229,
+            "GEMNR": 70811,
+            "STAND": 1043020800000,
+            "ADRKEY": "7081100171",
+            "SNAME": "Angerweg",
+            "PLZ": 6673,
+            "GEMNAME": "Grän",
+            "HNR": "2",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1360642
+        },
+        "geometry": {
+            "y": 262595.2100000009,
+            "x": 16580.324000000022
+        }
+    },
+    {
+        "attributes": {
+            "FID": 38351,
+            "GEMNR": 70357,
+            "STAND": 985651200000,
+            "ADRKEY": "7035702186",
+            "SNAME": "Anton-Föger-Weg",
+            "PLZ": 6410,
+            "GEMNAME": "Telfs",
+            "HNR": "33",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1240152
+        },
+        "geometry": {
+            "y": 241725.39499999955,
+            "x": 55917.45959999971
+        }
+    },
+    {
+        "attributes": {
+            "FID": 38403,
+            "GEMNR": 70833,
+            "STAND": 1000080000000,
+            "ADRKEY": "7083300391",
+            "SNAME": "Bahnhofstraße",
+            "PLZ": 6682,
+            "GEMNAME": "Vils",
+            "HNR": "18",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1209359
+        },
+        "geometry": {
+            "y": 267774.99950000085,
+            "x": 22582.959800000302
+        }
+    },
+    {
+        "attributes": {
+            "FID": 38615,
+            "GEMNR": 70812,
+            "STAND": 1226966400000,
+            "ADRKEY": "7081200018",
+            "SNAME": "Gramais",
+            "PLZ": 6650,
+            "GEMNAME": "Gramais",
+            "HNR": "5",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1018997
+        },
+        "geometry": {
+            "y": 236642.57090000063,
+            "x": 15445.447399999946
+        }
+    },
+    {
+        "attributes": {
+            "FID": 39302,
+            "GEMNR": 70524,
+            "STAND": 1348444800000,
+            "ADRKEY": "7052400083",
+            "SNAME": "Oberfeld",
+            "PLZ": 6351,
+            "GEMNAME": "Scheffau am Wilden Kaiser",
+            "HNR": "19",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1349487
+        },
+        "geometry": {
+            "y": 267448.29289999977,
+            "x": 144564.85960000008
+        }
+    },
+    {
+        "attributes": {
+            "FID": 39560,
+            "GEMNR": 70361,
+            "STAND": 1229904000000,
+            "ADRKEY": "7036100069",
+            "SNAME": "Unterperfuss",
+            "PLZ": 6178,
+            "GEMNAME": "Unterperfuss",
+            "HNR": "24",
+            "OBJEKT": "ADR",
+            "OBJECTID": 854720
+        },
+        "geometry": {
+            "y": 236005.5019000005,
+            "x": 70127.26510000043
+        }
+    },
+    {
+        "attributes": {
+            "FID": 39707,
+            "GEMNR": 70531,
+            "STAND": 1378684800000,
+            "ADRKEY": "7053102586",
+            "SNAME": "Zauberwinklweg",
+            "PLZ": 6300,
+            "GEMNAME": "Wörgl",
+            "HNR": "999",
+            "OBJEKT": "ADRE",
+            "OBJECTID": 1380709
+        },
+        "geometry": {
+            "y": 261336.0976999998,
+            "x": 129858.94359999988
+        }
+    },
+    {
+        "attributes": {
+            "FID": 40869,
+            "GEMNR": 70402,
+            "STAND": 1312848000000,
+            "ADRKEY": "7040201162",
+            "SNAME": "Brixenbach",
+            "PLZ": 6364,
+            "GEMNAME": "Brixen im Thale",
+            "HNR": "30",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1201433
+        },
+        "geometry": {
+            "y": 257923.3069000002,
+            "x": 145939.25600000005
+        }
+    },
+    {
+        "attributes": {
+            "FID": 40959,
+            "GEMNR": 70723,
+            "STAND": 977184000000,
+            "ADRKEY": "7072300092",
+            "SNAME": "St. Andrä",
+            "PLZ": 9974,
+            "GEMNAME": "Prägraten am Großvenediger",
+            "HNR": "22",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1368621
+        },
+        "geometry": {
+            "y": 210871.89499999955,
+            "x": 155371.85709999967
+        }
+    },
+    {
+        "attributes": {
+            "FID": 40970,
+            "GEMNR": 70302,
+            "STAND": 1044576000000,
+            "ADRKEY": "7030200176",
+            "SNAME": "Dorf",
+            "PLZ": 6071,
+            "GEMNAME": "Aldrans",
+            "HNR": "23",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1438024
+        },
+        "geometry": {
+            "y": 235258.61629999988,
+            "x": 84193.27890000027
+        }
+    },
+    {
+        "attributes": {
+            "FID": 41004,
+            "GEMNR": 70368,
+            "STAND": 1385942400000,
+            "ADRKEY": "7036800266",
+            "SNAME": "Afraweg",
+            "PLZ": 6413,
+            "GEMNAME": "Wildermieming",
+            "HNR": "3",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1378269
+        },
+        "geometry": {
+            "y": 241743.24960000068,
+            "x": 50761.617800000124
+        }
+    },
+    {
+        "attributes": {
+            "FID": 41016,
+            "GEMNR": 70821,
+            "STAND": 1323129600000,
+            "ADRKEY": "7082100197",
+            "SNAME": "Silbergasse",
+            "PLZ": 6631,
+            "GEMNAME": "Lermoos",
+            "HNR": "8",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1411830
+        },
+        "geometry": {
+            "y": 251409.3839999996,
+            "x": 41851.22049999982
+        }
+    },
+    {
+        "attributes": {
+            "FID": 41170,
+            "GEMNR": 70320,
+            "STAND": 1296086400000,
+            "ADRKEY": "7032000418",
+            "SNAME": "Rauthweg",
+            "PLZ": 6175,
+            "GEMNAME": "Kematen in Tirol",
+            "HNR": "25",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1457103
+        },
+        "geometry": {
+            "y": 235944.0482999999,
+            "x": 71047.9031999996
+        }
+    },
+    {
+        "attributes": {
+            "FID": 41214,
+            "GEMNR": 70622,
+            "STAND": 969753600000,
+            "ADRKEY": "7062200727",
+            "SNAME": "Siedlung",
+            "PLZ": 6491,
+            "GEMNAME": "Schönwies",
+            "HNR": "84",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1337594
+        },
+        "geometry": {
+            "y": 228131.17039999925,
+            "x": 23206.70959999971
+        }
+    },
+    {
+        "attributes": {
+            "FID": 42743,
+            "GEMNR": 70810,
+            "STAND": 1222732800000,
+            "ADRKEY": "7081000043",
+            "SNAME": "Forchach",
+            "PLZ": 6670,
+            "GEMNAME": "Forchach",
+            "HNR": "64",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1298476
+        },
+        "geometry": {
+            "y": 253446.85830000043,
+            "x": 18955.52130000014
+        }
+    },
+    {
+        "attributes": {
+            "FID": 43430,
+            "GEMNR": 70835,
+            "STAND": 1279152000000,
+            "ADRKEY": "7083500192",
+            "SNAME": "Höfener Straße",
+            "PLZ": 6610,
+            "GEMNAME": "Wängle",
+            "HNR": "28",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1328496
+        },
+        "geometry": {
+            "y": 260761.0951000005,
+            "x": 26781.572100000456
+        }
+    },
+    {
+        "attributes": {
+            "FID": 43487,
+            "GEMNR": 70510,
+            "STAND": 1304553600000,
+            "ADRKEY": "7051000311",
+            "SNAME": "Unterweidau",
+            "PLZ": 6343,
+            "GEMNAME": "Erl",
+            "HNR": "15",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1194858
+        },
+        "geometry": {
+            "y": 283645.91310000047,
+            "x": 138641.9464999996
+        }
+    },
+    {
+        "attributes": {
+            "FID": 43557,
+            "GEMNR": 70406,
+            "STAND": 1023840000000,
+            "ADRKEY": "7040600272",
+            "SNAME": "Bahnhofstraße",
+            "PLZ": 6361,
+            "GEMNAME": "Hopfgarten im Brixental",
+            "HNR": "16",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1461368
+        },
+        "geometry": {
+            "y": 258771.13199999928,
+            "x": 137173.73610000033
+        }
+    },
+    {
+        "attributes": {
+            "FID": 43609,
+            "GEMNR": 70347,
+            "STAND": 1312416000000,
+            "ADRKEY": "7034700263",
+            "SNAME": "Lüsens",
+            "PLZ": 6184,
+            "GEMNAME": "St. Sigmund im Sellrain",
+            "HNR": "5b",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1286824
+        },
+        "geometry": {
+            "y": 219553.77150000073,
+            "x": 59656.824599999934
+        }
+    },
+    {
+        "attributes": {
+            "FID": 43654,
+            "GEMNR": 70362,
+            "STAND": 1253232000000,
+            "ADRKEY": "7036200548",
+            "SNAME": "Vals",
+            "PLZ": 6154,
+            "GEMNAME": "Vals",
+            "HNR": "44f",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1286643
+        },
+        "geometry": {
+            "y": 212451.1344000008,
+            "x": 91097.61419999972
+        }
+    },
+    {
+        "attributes": {
+            "FID": 43936,
+            "GEMNR": 70921,
+            "STAND": 1328572800000,
+            "ADRKEY": "7092100310",
+            "SNAME": "Pillbergstraße",
+            "PLZ": 6136,
+            "GEMNAME": "Pill",
+            "HNR": "111",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1210915
+        },
+        "geometry": {
+            "y": 242389.72360000014,
+            "x": 104290.5131000001
+        }
+    },
+    {
+        "attributes": {
+            "FID": 44187,
+            "GEMNR": 70412,
+            "STAND": 1009756800000,
+            "ADRKEY": "7041201366",
+            "SNAME": "Achenweg",
+            "PLZ": 6345,
+            "GEMNAME": "Kössen",
+            "HNR": "36",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1354330
+        },
+        "geometry": {
+            "y": 282917.3457999993,
+            "x": 155057.2664999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 44262,
+            "GEMNR": 70530,
+            "STAND": 1225843200000,
+            "ADRKEY": "7053001568",
+            "SNAME": "Lenzen, Oberau",
+            "PLZ": 6311,
+            "GEMNAME": "Wildschönau",
+            "HNR": "330",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1430724
+        },
+        "geometry": {
+            "y": 256389.44480000064,
+            "x": 128276.55489999987
+        }
+    },
+    {
+        "attributes": {
+            "FID": 44534,
+            "GEMNR": 70356,
+            "STAND": 1023926400000,
+            "ADRKEY": "7035600169",
+            "SNAME": "Telfes",
+            "PLZ": 6165,
+            "GEMNAME": "Telfes im Stubai",
+            "HNR": "163",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1409154
+        },
+        "geometry": {
+            "y": 225707.45309999958,
+            "x": 78267.2871000003
+        }
+    },
+    {
+        "attributes": {
+            "FID": 45278,
+            "GEMNR": 70415,
+            "STAND": 1211155200000,
+            "ADRKEY": "7041500016",
+            "SNAME": "Kirchbichl",
+            "PLZ": 6392,
+            "GEMNAME": "St. Jakob in Haus",
+            "HNR": "2",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1205290
+        },
+        "geometry": {
+            "y": 264917.77779999934,
+            "x": 167818.4539999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46158,
+            "GEMNR": 70914,
+            "STAND": 1253836800000,
+            "ADRKEY": "7091400205",
+            "SNAME": "Eggeweg",
+            "PLZ": 6278,
+            "GEMNAME": "Hainzenberg",
+            "HNR": "671",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1441031
+        },
+        "geometry": {
+            "y": 231870.46859999932,
+            "x": 117015.40550000034
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46201,
+            "GEMNR": 70713,
+            "STAND": 1308528000000,
+            "ADRKEY": "7071300575",
+            "SNAME": "Kartitsch",
+            "PLZ": 9941,
+            "GEMNAME": "Kartitsch",
+            "HNR": "213c",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1286535
+        },
+        "geometry": {
+            "y": 178945.86150000058,
+            "x": 164319.49629999977
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46246,
+            "GEMNR": 70707,
+            "STAND": 1187740800000,
+            "ADRKEY": "7070700571",
+            "SNAME": "Görtschach",
+            "PLZ": 9991,
+            "GEMNAME": "Dölsach",
+            "HNR": "7",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1346725
+        },
+        "geometry": {
+            "y": 189180.67200000025,
+            "x": 192237.74239999987
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46264,
+            "GEMNR": 70322,
+            "STAND": 1158624000000,
+            "ADRKEY": "7032200509",
+            "SNAME": "Rettenbergstraße",
+            "PLZ": 6114,
+            "GEMNAME": "Kolsass",
+            "HNR": "26d",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1286153
+        },
+        "geometry": {
+            "y": 241164.24420000054,
+            "x": 98412.97109999973
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46339,
+            "GEMNR": 70311,
+            "STAND": 1219622400000,
+            "ADRKEY": "7031100279",
+            "SNAME": "Gnadenwald",
+            "PLZ": 6069,
+            "GEMNAME": "Gnadenwald",
+            "HNR": "35e",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1441053
+        },
+        "geometry": {
+            "y": 243332.41330000013,
+            "x": 94779.65089999977
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46391,
+            "GEMNR": 70604,
+            "STAND": 1019433600000,
+            "ADRKEY": "7060402167",
+            "SNAME": "Dorf",
+            "PLZ": 6521,
+            "GEMNAME": "Fließ",
+            "HNR": "192",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1347434
+        },
+        "geometry": {
+            "y": 220216.97340000048,
+            "x": 21777.481999999844
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46403,
+            "GEMNR": 70503,
+            "STAND": 1321401600000,
+            "ADRKEY": "7050300733",
+            "SNAME": "Kirchstraße",
+            "PLZ": 6323,
+            "GEMNAME": "Bad Häring",
+            "HNR": "52",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1406518
+        },
+        "geometry": {
+            "y": 264768.13709999993,
+            "x": 134854.7390999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46473,
+            "GEMNR": 70714,
+            "STAND": 1309219200000,
+            "ADRKEY": "7071400055",
+            "SNAME": "Lavant",
+            "PLZ": 9906,
+            "GEMNAME": "Lavant",
+            "HNR": "62",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1021205
+        },
+        "geometry": {
+            "y": 187434.95260000043,
+            "x": 191320.3191999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46553,
+            "GEMNR": 70330,
+            "STAND": 1016150400000,
+            "ADRKEY": "7033000093",
+            "SNAME": "Statz",
+            "PLZ": 6143,
+            "GEMNAME": "Mühlbachl",
+            "HNR": "39",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1298203
+        },
+        "geometry": {
+            "y": 220769.53639999963,
+            "x": 85013.56159999967
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46690,
+            "GEMNR": 70528,
+            "STAND": 1229644800000,
+            "ADRKEY": "7052800242",
+            "SNAME": "Baumgarten",
+            "PLZ": 6320,
+            "GEMNAME": "Angerberg",
+            "HNR": "67",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1367856
+        },
+        "geometry": {
+            "y": 264858.2860000003,
+            "x": 128946.00219999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 46746,
+            "GEMNR": 70307,
+            "STAND": 1219622400000,
+            "ADRKEY": "7030700356",
+            "SNAME": "Innerellbögen",
+            "PLZ": 6083,
+            "GEMNAME": "Ellbögen",
+            "HNR": "190",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1354010
+        },
+        "geometry": {
+            "y": 225785.04849999957,
+            "x": 85481.10199999996
+        }
+    },
+    {
+        "attributes": {
+            "FID": 48865,
+            "GEMNR": 70621,
+            "STAND": 1037836800000,
+            "ADRKEY": "7062100169",
+            "SNAME": "Marktstraße",
+            "PLZ": 6580,
+            "GEMNAME": "St. Anton am Arlberg",
+            "HNR": "26",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1285063
+        },
+        "geometry": {
+            "y": 221404.7963999994,
+            "x": -4810.1958999997005
+        }
+    },
+    {
+        "attributes": {
+            "FID": 48989,
+            "GEMNR": 70369,
+            "STAND": 1049673600000,
+            "ADRKEY": "7036901705",
+            "SNAME": "Berger-Äcker",
+            "PLZ": 6170,
+            "GEMNAME": "Zirl",
+            "HNR": "15",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1426448
+        },
+        "geometry": {
+            "y": 237574.95299999975,
+            "x": 68217.0225999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 49052,
+            "GEMNR": 70404,
+            "STAND": 1278460800000,
+            "ADRKEY": "7040400702",
+            "SNAME": "Pramaweg",
+            "PLZ": 6353,
+            "GEMNAME": "Going am Wilden Kaiser",
+            "HNR": "84",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1297490
+        },
+        "geometry": {
+            "y": 266567.3677999992,
+            "x": 150872.375
+        }
+    },
+    {
+        "attributes": {
+            "FID": 49238,
+            "GEMNR": 70627,
+            "STAND": 1288828800000,
+            "ADRKEY": "7062700752",
+            "SNAME": "Verill",
+            "PLZ": 6571,
+            "GEMNAME": "Strengen",
+            "HNR": "98b",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1415873
+        },
+        "geometry": {
+            "y": 221579.99000000022,
+            "x": 8864.285899999551
+        }
+    },
+    {
+        "attributes": {
+            "FID": 49832,
+            "GEMNR": 70201,
+            "STAND": 1000771200000,
+            "ADRKEY": "7020100876",
+            "SNAME": "Osterstein",
+            "PLZ": 6471,
+            "GEMNAME": "Arzl im Pitztal",
+            "HNR": "143",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1369369
+        },
+        "geometry": {
+            "y": 230563.71240000054,
+            "x": 32514.400000000373
+        }
+    },
+    {
+        "attributes": {
+            "FID": 51455,
+            "GEMNR": 70735,
+            "STAND": 1299628800000,
+            "ADRKEY": "7072200119",
+            "SNAME": "Tessenberg",
+            "PLZ": 9919,
+            "GEMNAME": "Heinfels",
+            "HNR": "20",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1262574
+        },
+        "geometry": {
+            "y": 181707.70390000008,
+            "x": 162734.80040000007
+        }
+    },
+    {
+        "attributes": {
+            "FID": 51499,
+            "GEMNR": 70309,
+            "STAND": 1142208000000,
+            "ADRKEY": "7030900563",
+            "SNAME": "Unterdorf",
+            "PLZ": 6122,
+            "GEMNAME": "Fritzens",
+            "HNR": "14a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1377688
+        },
+        "geometry": {
+            "y": 241153.37360000052,
+            "x": 95056.40160000045
+        }
+    },
+    {
+        "attributes": {
+            "FID": 51511,
+            "GEMNR": 70612,
+            "STAND": 966902400000,
+            "ADRKEY": "7061200215",
+            "SNAME": "Kauns",
+            "PLZ": 6522,
+            "GEMNAME": "Kauns",
+            "HNR": "49b",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1263713
+        },
+        "geometry": {
+            "y": 215407.18329999968,
+            "x": 27278.1875
+        }
+    },
+    {
+        "attributes": {
+            "FID": 51590,
+            "GEMNR": 70915,
+            "STAND": 1373587200000,
+            "ADRKEY": "7091500811",
+            "SNAME": "Panoramastraße",
+            "PLZ": 6265,
+            "GEMNAME": "Hart im Zillertal",
+            "HNR": "10",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1380714
+        },
+        "geometry": {
+            "y": 247055.5867999997,
+            "x": 116367.08490000013
+        }
+    },
+    {
+        "attributes": {
+            "FID": 54177,
+            "GEMNR": 70331,
+            "STAND": 1006473600000,
+            "ADRKEY": "7033100126",
+            "SNAME": "Dorfstraße",
+            "PLZ": 6162,
+            "GEMNAME": "Mutters",
+            "HNR": "11",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1252750
+        },
+        "geometry": {
+            "y": 232616.63260000013,
+            "x": 78736.76510000043
+        }
+    },
+    {
+        "attributes": {
+            "FID": 54250,
+            "GEMNR": 70208,
+            "STAND": 1325116800000,
+            "ADRKEY": "7020801468",
+            "SNAME": "Lehner-Au",
+            "PLZ": 6444,
+            "GEMNAME": "Längenfeld",
+            "HNR": "150",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1439292
+        },
+        "geometry": {
+            "y": 216431.51160000078,
+            "x": 46970.01539999992
+        }
+    },
+    {
+        "attributes": {
+            "FID": 56953,
+            "GEMNR": 70512,
+            "STAND": 1365724800000,
+            "ADRKEY": "7051200704",
+            "SNAME": "Unterkramsach",
+            "PLZ": 6233,
+            "GEMNAME": "Kramsach",
+            "HNR": "108",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1398135
+        },
+        "geometry": {
+            "y": 257245.62289999984,
+            "x": 117323.7751000002
+        }
+    },
+    {
+        "attributes": {
+            "FID": 56999,
+            "GEMNR": 70355,
+            "STAND": 1023667200000,
+            "ADRKEY": "7035500820",
+            "SNAME": "Erlach",
+            "PLZ": 6150,
+            "GEMNAME": "Steinach am Brenner",
+            "HNR": "133",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1363277
+        },
+        "geometry": {
+            "y": 217871.80289999954,
+            "x": 86058.48909999989
+        }
+    },
+    {
+        "attributes": {
+            "FID": 57171,
+            "GEMNR": 70205,
+            "STAND": 1223424000000,
+            "ADRKEY": "7020500420",
+            "SNAME": "Kaitanger",
+            "PLZ": 6474,
+            "GEMNAME": "Jerzens",
+            "HNR": "307",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1262181
+        },
+        "geometry": {
+            "y": 224388.7678999994,
+            "x": 31986.38019999955
+        }
+    },
+    {
+        "attributes": {
+            "FID": 59695,
+            "GEMNR": 70913,
+            "STAND": 1301961600000,
+            "ADRKEY": "7091300385",
+            "SNAME": "Gerlosberg",
+            "PLZ": 6280,
+            "GEMNAME": "Gerlosberg",
+            "HNR": "30",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 986468
+        },
+        "geometry": {
+            "y": 232706.6177999992,
+            "x": 120189.73060000036
+        }
+    },
+    {
+        "attributes": {
+            "FID": 59906,
+            "GEMNR": 70805,
+            "STAND": 1268956800000,
+            "ADRKEY": "7080500561",
+            "SNAME": "Kaiser-Lothar-Straße",
+            "PLZ": 6600,
+            "GEMNAME": "Breitenwang",
+            "HNR": "47",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1327905
+        },
+        "geometry": {
+            "y": 261109.29560000077,
+            "x": 29727.506000000052
+        }
+    },
+    {
+        "attributes": {
+            "FID": 60259,
+            "GEMNR": 70912,
+            "STAND": 1049673600000,
+            "ADRKEY": "7091200803",
+            "SNAME": "Gerlos",
+            "PLZ": 6281,
+            "GEMNAME": "Gerlos",
+            "HNR": "8",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1200634
+        },
+        "geometry": {
+            "y": 229059.73340000026,
+            "x": 125982.9609000003
+        }
+    },
+    {
+        "attributes": {
+            "FID": 62138,
+            "GEMNR": 70522,
+            "STAND": 1122595200000,
+            "ADRKEY": "7052200300",
+            "SNAME": "Neudorf",
+            "PLZ": 6235,
+            "GEMNAME": "Reith im Alpbachtal",
+            "HNR": "40",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1412660
+        },
+        "geometry": {
+            "y": 254143.04759999923,
+            "x": 115857.24739999976
+        }
+    },
+    {
+        "attributes": {
+            "FID": 64678,
+            "GEMNR": 70925,
+            "STAND": 1224547200000,
+            "ADRKEY": "7092500521",
+            "SNAME": "Schlitters",
+            "PLZ": 6262,
+            "GEMNAME": "Schlitters",
+            "HNR": "178a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1327373
+        },
+        "geometry": {
+            "y": 249891.97169999965,
+            "x": 113553.37469999958
+        }
+    },
+    {
+        "attributes": {
+            "FID": 64789,
+            "GEMNR": 70808,
+            "STAND": 998265600000,
+            "ADRKEY": "7080800287",
+            "SNAME": "Dorf",
+            "PLZ": 6652,
+            "GEMNAME": "Elbigenalp",
+            "HNR": "25",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1364061
+        },
+        "geometry": {
+            "y": 239280.86659999937,
+            "x": 7798.8073000004515
+        }
+    },
+    {
+        "attributes": {
+            "FID": 64871,
+            "GEMNR": 70923,
+            "STAND": 1323734400000,
+            "ADRKEY": "7092300132",
+            "SNAME": "Dorfstraße",
+            "PLZ": 6273,
+            "GEMNAME": "Ried im Zillertal",
+            "HNR": "23",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1195359
+        },
+        "geometry": {
+            "y": 241392.83440000005,
+            "x": 116189.34740000032
+        }
+    },
+    {
+        "attributes": {
+            "FID": 65092,
+            "GEMNR": 70506,
+            "STAND": 1043020800000,
+            "ADRKEY": "7050600604",
+            "SNAME": "Faberstraße",
+            "PLZ": 6230,
+            "GEMNAME": "Brixlegg",
+            "HNR": "23b",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1387378
+        },
+        "geometry": {
+            "y": 255104.4115999993,
+            "x": 117222.50119999982
+        }
+    },
+    {
+        "attributes": {
+            "FID": 65607,
+            "GEMNR": 70937,
+            "STAND": 1353974400000,
+            "ADRKEY": "7093700074",
+            "SNAME": "Ulrichweg",
+            "PLZ": 6116,
+            "GEMNAME": "Weer",
+            "HNR": "29",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1438796
+        },
+        "geometry": {
+            "y": 241957.32019999996,
+            "x": 98602.32500000019
+        }
+    },
+    {
+        "attributes": {
+            "FID": 67479,
+            "GEMNR": 70327,
+            "STAND": 1146614400000,
+            "ADRKEY": "7032700194",
+            "SNAME": "Matrei am Brenner",
+            "PLZ": 6143,
+            "GEMNAME": "Matrei am Brenner",
+            "HNR": "137",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1197730
+        },
+        "geometry": {
+            "y": 221220.19129999913,
+            "x": 84810.68620000035
+        }
+    },
+    {
+        "attributes": {
+            "FID": 67507,
+            "GEMNR": 70806,
+            "STAND": 995414400000,
+            "ADRKEY": "7080600225",
+            "SNAME": "Rieden Au",
+            "PLZ": 6671,
+            "GEMNAME": "Ehenbichl",
+            "HNR": "1",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1198643
+        },
+        "geometry": {
+            "y": 256001.91440000013,
+            "x": 25045.749400000088
+        }
+    },
+    {
+        "attributes": {
+            "FID": 68804,
+            "GEMNR": 70706,
+            "STAND": 961718400000,
+            "ADRKEY": "7070600332",
+            "SNAME": "Außervillgraten",
+            "PLZ": 9931,
+            "GEMNAME": "Außervillgraten",
+            "HNR": "131",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1201007
+        },
+        "geometry": {
+            "y": 185592.10899999924,
+            "x": 160547.96210000012
+        }
+    },
+    {
+        "attributes": {
+            "FID": 69934,
+            "GEMNR": 70525,
+            "STAND": 1359331200000,
+            "ADRKEY": "7052500499",
+            "SNAME": "Sonnendorf",
+            "PLZ": 6334,
+            "GEMNAME": "Schwoich",
+            "HNR": "57",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1199937
+        },
+        "geometry": {
+            "y": 267081.4316000007,
+            "x": 136427.8457000004
+        }
+    },
+    {
+        "attributes": {
+            "FID": 69979,
+            "GEMNR": 70610,
+            "STAND": 1209340800000,
+            "ADRKEY": "7061000136",
+            "SNAME": "Maierhof",
+            "PLZ": 6527,
+            "GEMNAME": "Kaunerberg",
+            "HNR": "39",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1328412
+        },
+        "geometry": {
+            "y": 215937.31670000032,
+            "x": 28414.294700000435
+        }
+    },
+    {
+        "attributes": {
+            "FID": 70022,
+            "GEMNR": 70301,
+            "STAND": 1085616000000,
+            "ADRKEY": "7030102153",
+            "SNAME": "Karl Zanger-Straße",
+            "PLZ": 6067,
+            "GEMNAME": "Absam",
+            "HNR": "14",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1432478
+        },
+        "geometry": {
+            "y": 240157.99599999934,
+            "x": 88667.82249999978
+        }
+    },
+    {
+        "attributes": {
+            "FID": 70126,
+            "GEMNR": 70337,
+            "STAND": 981417600000,
+            "ADRKEY": "7033700125",
+            "SNAME": "Huebe",
+            "PLZ": 6173,
+            "GEMNAME": "Oberperfuss",
+            "HNR": "38c",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1330302
+        },
+        "geometry": {
+            "y": 234889.4235999994,
+            "x": 68765.49139999971
+        }
+    },
+    {
+        "attributes": {
+            "FID": 72763,
+            "GEMNR": 70717,
+            "STAND": 979603200000,
+            "ADRKEY": "7071700699",
+            "SNAME": "Hinterburg",
+            "PLZ": 9971,
+            "GEMNAME": "Matrei in Osttirol",
+            "HNR": "29",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1458152
+        },
+        "geometry": {
+            "y": 209818.3066000007,
+            "x": 168252.65840000007
+        }
+    },
+    {
+        "attributes": {
+            "FID": 72795,
+            "GEMNR": 70351,
+            "STAND": 1023840000000,
+            "ADRKEY": "7035100647",
+            "SNAME": "Maximilianweg",
+            "PLZ": 6100,
+            "GEMNAME": "Seefeld in Tirol",
+            "HNR": "155",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1316015
+        },
+        "geometry": {
+            "y": 243597.0658999998,
+            "x": 64358.7034
+        }
+    },
+    {
+        "attributes": {
+            "FID": 74203,
+            "GEMNR": 70705,
+            "STAND": 1320192000000,
+            "ADRKEY": "7070500517",
+            "SNAME": "Klausen",
+            "PLZ": 9911,
+            "GEMNAME": "Assling",
+            "HNR": "12",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1324594
+        },
+        "geometry": {
+            "y": 186052.46660000086,
+            "x": 178129.16559999995
+        }
+    },
+    {
+        "attributes": {
+            "FID": 75499,
+            "GEMNR": 70526,
+            "STAND": 973641600000,
+            "ADRKEY": "7052600927",
+            "SNAME": "Salvenberg",
+            "PLZ": 6306,
+            "GEMNAME": "Söll",
+            "HNR": "31",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1207844
+        },
+        "geometry": {
+            "y": 261322.4375,
+            "x": 140708.36239999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 76709,
+            "GEMNR": 70625,
+            "STAND": 1289520000000,
+            "ADRKEY": "7062500061",
+            "SNAME": "Spiss",
+            "PLZ": 6544,
+            "GEMNAME": "Spiss",
+            "HNR": "36",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1334940
+        },
+        "geometry": {
+            "y": 201805.25510000065,
+            "x": 9779.835300000384
+        }
+    },
+    {
+        "attributes": {
+            "FID": 77402,
+            "GEMNR": 70628,
+            "STAND": 1215734400000,
+            "ADRKEY": "7062800236",
+            "SNAME": "Schützen",
+            "PLZ": 6552,
+            "GEMNAME": "Tobadill",
+            "HNR": "131",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1336812
+        },
+        "geometry": {
+            "y": 220548.3842999991,
+            "x": 13861.833899999969
+        }
+    },
+    {
+        "attributes": {
+            "FID": 78231,
+            "GEMNR": 70101,
+            "STAND": 1037836800000,
+            "ADRKEY": "7010100751",
+            "SNAME": "Winkelfeldsteig",
+            "PLZ": 6020,
+            "GEMNAME": "Innsbruck",
+            "HNR": "52",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1175063
+        },
+        "geometry": {
+            "y": 235988.87480000034,
+            "x": 82926.06269999966
+        }
+    },
+    {
+        "attributes": {
+            "FID": 78247,
+            "GEMNR": 70416,
+            "STAND": 976752000000,
+            "ADRKEY": "7041601724",
+            "SNAME": "Winkl-Schattseite",
+            "PLZ": 6380,
+            "GEMNAME": "St. Johann in Tirol",
+            "HNR": "78",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1295314
+        },
+        "geometry": {
+            "y": 265532.16699999943,
+            "x": 160550.60360000003
+        }
+    },
+    {
+        "attributes": {
+            "FID": 78334,
+            "GEMNR": 70933,
+            "STAND": 958003200000,
+            "ADRKEY": "7093300331",
+            "SNAME": "Bahnhofsiedlung",
+            "PLZ": 6123,
+            "GEMNAME": "Terfens",
+            "HNR": "67",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1353353
+        },
+        "geometry": {
+            "y": 243545.80330000073,
+            "x": 101118.20199999958
+        }
+    },
+    {
+        "attributes": {
+            "FID": 80837,
+            "GEMNR": 70602,
+            "STAND": 1226966400000,
+            "ADRKEY": "7060200025",
+            "SNAME": "Fendels",
+            "PLZ": 6528,
+            "GEMNAME": "Fendels",
+            "HNR": "38",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1287183
+        },
+        "geometry": {
+            "y": 212853.27710000053,
+            "x": 26069.952499999665
+        }
+    },
+    {
+        "attributes": {
+            "FID": 80871,
+            "GEMNR": 70343,
+            "STAND": 1213833600000,
+            "ADRKEY": "7034300513",
+            "SNAME": "Riedpuite",
+            "PLZ": 6179,
+            "GEMNAME": "Ranggen",
+            "HNR": "3",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1204959
+        },
+        "geometry": {
+            "y": 235527.1643000003,
+            "x": 66063.00179999974
+        }
+    },
+    {
+        "attributes": {
+            "FID": 83409,
+            "GEMNR": 70816,
+            "STAND": 1237766400000,
+            "ADRKEY": "7081600578",
+            "SNAME": "Hauptstraße",
+            "PLZ": 6604,
+            "GEMNAME": "Höfen",
+            "HNR": "4",
+            "OBJEKT": "ADRE",
+            "OBJECTID": 1407673
+        },
+        "geometry": {
+            "y": 259870.2207999993,
+            "x": 27361.689199999906
+        }
+    },
+    {
+        "attributes": {
+            "FID": 83454,
+            "GEMNR": 70938,
+            "STAND": 965088000000,
+            "ADRKEY": "7093800630",
+            "SNAME": "Zallerstraße",
+            "PLZ": 6133,
+            "GEMNAME": "Weerberg",
+            "HNR": "121",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1429362
+        },
+        "geometry": {
+            "y": 239636.6853,
+            "x": 101736.85319999978
+        }
+    },
+    {
+        "attributes": {
+            "FID": 83726,
+            "GEMNR": 70605,
+            "STAND": 1069804800000,
+            "ADRKEY": "7060500097",
+            "SNAME": "Flirsch",
+            "PLZ": 6572,
+            "GEMNAME": "Flirsch",
+            "HNR": "182",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1277477
+        },
+        "geometry": {
+            "y": 223447.24479999952,
+            "x": 5316.772499999963
+        }
+    },
+    {
+        "attributes": {
+            "FID": 83879,
+            "GEMNR": 70611,
+            "STAND": 965606400000,
+            "ADRKEY": "7061100402",
+            "SNAME": "Feichten",
+            "PLZ": 6524,
+            "GEMNAME": "Kaunertal",
+            "HNR": "180",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1356608
+        },
+        "geometry": {
+            "y": 210222.7050999999,
+            "x": 31277.724899999797
+        }
+    },
+    {
+        "attributes": {
+            "FID": 86068,
+            "GEMNR": 70517,
+            "STAND": 964137600000,
+            "ADRKEY": "7051700193",
+            "SNAME": "Asten",
+            "PLZ": 6232,
+            "GEMNAME": "Münster",
+            "HNR": "136",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1414180
+        },
+        "geometry": {
+            "y": 255157.97149999999,
+            "x": 113773.1294999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 86274,
+            "GEMNR": 70712,
+            "STAND": 1259193600000,
+            "ADRKEY": "7071201015",
+            "SNAME": "Ködnitz",
+            "PLZ": 9981,
+            "GEMNAME": "Kals am Großglockner",
+            "HNR": "6",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1217412
+        },
+        "geometry": {
+            "y": 209452.23179999925,
+            "x": 175806.66760000028
+        }
+    },
+    {
+        "attributes": {
+            "FID": 86341,
+            "GEMNR": 70804,
+            "STAND": 1056326400000,
+            "ADRKEY": "7080400308",
+            "SNAME": "Siedlung",
+            "PLZ": 6621,
+            "GEMNAME": "Bichlbach",
+            "HNR": "87",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1336493
+        },
+        "geometry": {
+            "y": 253352.2240999993,
+            "x": 34528.76260000002
+        }
+    },
+    {
+        "attributes": {
+            "FID": 87330,
+            "GEMNR": 70924,
+            "STAND": 1171584000000,
+            "ADRKEY": "7092400156",
+            "SNAME": "Rohr",
+            "PLZ": 6280,
+            "GEMNAME": "Rohrberg",
+            "HNR": "26A",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1326991
+        },
+        "geometry": {
+            "y": 234769.31110000052,
+            "x": 118745.40409999993
+        }
+    },
+    {
+        "attributes": {
+            "FID": 87490,
+            "GEMNR": 70413,
+            "STAND": 1052092800000,
+            "ADRKEY": "7041300638",
+            "SNAME": "Pass-Thurn-Straße",
+            "PLZ": 6372,
+            "GEMNAME": "Oberndorf in Tirol",
+            "HNR": "6",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1355819
+        },
+        "geometry": {
+            "y": 262372.47089999914,
+            "x": 154383.45139999967
+        }
+    },
+    {
+        "attributes": {
+            "FID": 88741,
+            "GEMNR": 70630,
+            "STAND": 968630400000,
+            "ADRKEY": "7063001434",
+            "SNAME": "Hauptstraße",
+            "PLZ": 6511,
+            "GEMNAME": "Zams",
+            "HNR": "38",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1292944
+        },
+        "geometry": {
+            "y": 223888.84009999968,
+            "x": 19154.019999999553
+        }
+    },
+    {
+        "attributes": {
+            "FID": 88764,
+            "GEMNR": 70349,
+            "STAND": 1026777600000,
+            "ADRKEY": "7034900002",
+            "SNAME": "Muchnersiedlung",
+            "PLZ": 6154,
+            "GEMNAME": "Schmirn",
+            "HNR": "253",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1409619
+        },
+        "geometry": {
+            "y": 214810.8529000003,
+            "x": 90685.1129999999
+        }
+    },
+    {
+        "attributes": {
+            "FID": 88836,
+            "GEMNR": 70364,
+            "STAND": 977961600000,
+            "ADRKEY": "7036401137",
+            "SNAME": "Thurnfelsstraße",
+            "PLZ": 6176,
+            "GEMNAME": "Völs",
+            "HNR": "29",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1451988
+        },
+        "geometry": {
+            "y": 235399.19549999945,
+            "x": 74151.39960000012
+        }
+    },
+    {
+        "attributes": {
+            "FID": 88996,
+            "GEMNR": 70217,
+            "STAND": 1237852800000,
+            "ADRKEY": "7021700112",
+            "SNAME": "Wiese",
+            "PLZ": 6481,
+            "GEMNAME": "St. Leonhard im Pitztal",
+            "HNR": "82",
+            "OBJEKT": "ADRE",
+            "OBJECTID": 1224429
+        },
+        "geometry": {
+            "y": 219451.28490000032,
+            "x": 35346.08160000015
+        }
+    },
+    {
+        "attributes": {
+            "FID": 89985,
+            "GEMNR": 70940,
+            "STAND": 1254268800000,
+            "ADRKEY": "7094000626",
+            "SNAME": "Aufeld",
+            "PLZ": 6280,
+            "GEMNAME": "Zell am Ziller",
+            "HNR": "1a",
+            "OBJEKT": "ADRE",
+            "OBJECTID": 1346045
+        },
+        "geometry": {
+            "y": 234000.95910000056,
+            "x": 118015.5979000004
+        }
+    },
+    {
+        "attributes": {
+            "FID": 91618,
+            "GEMNR": 70359,
+            "STAND": 1040083200000,
+            "ADRKEY": "7035900367",
+            "SNAME": "Trins",
+            "PLZ": 6152,
+            "GEMNAME": "Trins",
+            "HNR": "229",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1326617
+        },
+        "geometry": {
+            "y": 216296.88709999993,
+            "x": 81717.84210000001
+        }
+    },
+    {
+        "attributes": {
+            "FID": 91732,
+            "GEMNR": 70407,
+            "STAND": 1174435200000,
+            "ADRKEY": "7040700467",
+            "SNAME": "Barmerberg",
+            "PLZ": 6305,
+            "GEMNAME": "Itter",
+            "HNR": "24",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1429042
+        },
+        "geometry": {
+            "y": 260949.99300000072,
+            "x": 139557.97670000046
+        }
+    },
+    {
+        "attributes": {
+            "FID": 91810,
+            "GEMNR": 70936,
+            "STAND": 1118188800000,
+            "ADRKEY": "7093601639",
+            "SNAME": "Innhöfe",
+            "PLZ": 6134,
+            "GEMNAME": "Vomp",
+            "HNR": "22",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1453882
+        },
+        "geometry": {
+            "y": 245546.75999999978,
+            "x": 103465.99000000022
+        }
+    },
+    {
+        "attributes": {
+            "FID": 91835,
+            "GEMNR": 70904,
+            "STAND": 1193270400000,
+            "ADRKEY": "7090400241",
+            "SNAME": "Imming",
+            "PLZ": 6260,
+            "GEMNAME": "Bruck am Ziller",
+            "HNR": "3a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1375107
+        },
+        "geometry": {
+            "y": 250276.72839999944,
+            "x": 115210.99540000036
+        }
+    },
+    {
+        "attributes": {
+            "FID": 94237,
+            "GEMNR": 70901,
+            "STAND": 1005177600000,
+            "ADRKEY": "7090100581",
+            "SNAME": "Achenkirch",
+            "PLZ": 6215,
+            "GEMNAME": "Achenkirch",
+            "HNR": "236",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1396849
+        },
+        "geometry": {
+            "y": 265612.7683000006,
+            "x": 103531.44539999962
+        }
+    },
+    {
+        "attributes": {
+            "FID": 94692,
+            "GEMNR": 70807,
+            "STAND": 1036713600000,
+            "ADRKEY": "7080700381",
+            "SNAME": "Schulweg",
+            "PLZ": 6632,
+            "GEMNAME": "Ehrwald",
+            "HNR": "7",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1298587
+        },
+        "geometry": {
+            "y": 251375.0700000003,
+            "x": 44268.3443
+        }
+    },
+    {
+        "attributes": {
+            "FID": 95386,
+            "GEMNR": 70818,
+            "STAND": 989366400000,
+            "ADRKEY": "7081800002",
+            "SNAME": "Jungholz",
+            "PLZ": 6691,
+            "GEMNAME": "Jungholz",
+            "HNR": "49",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1277597
+        },
+        "geometry": {
+            "y": 271372.28240000084,
+            "x": 8290.284199999645
+        }
+    },
+    {
+        "attributes": {
+            "FID": 96680,
+            "GEMNR": 70817,
+            "STAND": 1031616000000,
+            "ADRKEY": "7081700096",
+            "SNAME": "Holzgau",
+            "PLZ": 6654,
+            "GEMNAME": "Holzgau",
+            "HNR": "73",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1214550
+        },
+        "geometry": {
+            "y": 235773.8739,
+            "x": 925.847500000149
+        }
+    },
+    {
+        "attributes": {
+            "FID": 96897,
+            "GEMNR": 70353,
+            "STAND": 1302048000000,
+            "ADRKEY": "7035300731",
+            "SNAME": "Am Kreuz",
+            "PLZ": 6073,
+            "GEMNAME": "Sistrans",
+            "HNR": "121",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1339728
+        },
+        "geometry": {
+            "y": 233803.9824000001,
+            "x": 84612.83069999982
+        }
+    },
+    {
+        "attributes": {
+            "FID": 97195,
+            "GEMNR": 70935,
+            "STAND": 1184803200000,
+            "ADRKEY": "7093500510",
+            "SNAME": "E-Werk-Gasse",
+            "PLZ": 6271,
+            "GEMNAME": "Uderns",
+            "HNR": "9",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1419690
+        },
+        "geometry": {
+            "y": 243720.91599999927,
+            "x": 114104.19010000024
+        }
+    },
+    {
+        "attributes": {
+            "FID": 97552,
+            "GEMNR": 70504,
+            "STAND": 1255478400000,
+            "ADRKEY": "7050400921",
+            "SNAME": "Brandenberg",
+            "PLZ": 6234,
+            "GEMNAME": "Brandenberg",
+            "HNR": "108a",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1455237
+        },
+        "geometry": {
+            "y": 263116.3276000004,
+            "x": 120154.92860000022
+        }
+    },
+    {
+        "attributes": {
+            "FID": 99394,
+            "GEMNR": 70932,
+            "STAND": 1222732800000,
+            "ADRKEY": "7093200221",
+            "SNAME": "Stummerberg",
+            "PLZ": 6276,
+            "GEMNAME": "Stummerberg",
+            "HNR": "22",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1410270
+        },
+        "geometry": {
+            "y": 240586.7884999998,
+            "x": 118470.37289999984
+        }
+    },
+    {
+        "attributes": {
+            "FID": 99985,
+            "GEMNR": 70350,
+            "STAND": 1301529600000,
+            "ADRKEY": "7035000303",
+            "SNAME": "Kirchgasse",
+            "PLZ": 6141,
+            "GEMNAME": "Schönberg im Stubaital",
+            "HNR": "24",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1260496
+        },
+        "geometry": {
+            "y": 227758.2525999993,
+            "x": 80987.94560000021
+        }
+    },
+    {
+        "attributes": {
+            "FID": 100902,
+            "GEMNR": 70206,
+            "STAND": 1219622400000,
+            "ADRKEY": "7020600188",
+            "SNAME": "Karres",
+            "PLZ": 6462,
+            "GEMNAME": "Karres",
+            "HNR": "146",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1339513
+        },
+        "geometry": {
+            "y": 231198.16359999962,
+            "x": 33725.072300000116
+        }
+    },
+    {
+        "attributes": {
+            "FID": 104713,
+            "GEMNR": 70304,
+            "STAND": 1292544000000,
+            "ADRKEY": "7030401756",
+            "SNAME": "Kristeneben",
+            "PLZ": 6094,
+            "GEMNAME": "Axams",
+            "HNR": "29a",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1401668
+        },
+        "geometry": {
+            "y": 234305.93249999918,
+            "x": 71908.12270000018
+        }
+    },
+    {
+        "attributes": {
+            "FID": 109921,
+            "GEMNR": 70731,
+            "STAND": 1221436800000,
+            "ADRKEY": "7073100388",
+            "SNAME": "Weberlefeld",
+            "PLZ": 9904,
+            "GEMNAME": "Thurn",
+            "HNR": "30",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1428657
+        },
+        "geometry": {
+            "y": 192643.58239999972,
+            "x": 185017.17819999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 109975,
+            "GEMNR": 70908,
+            "STAND": 1348185600000,
+            "ADRKEY": "7090800330",
+            "SNAME": "Persal",
+            "PLZ": 6292,
+            "GEMNAME": "Finkenberg",
+            "HNR": "242",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1357084
+        },
+        "geometry": {
+            "y": 224736.02850000001,
+            "x": 112531.86739999987
+        }
+    },
+    {
+        "attributes": {
+            "FID": 111094,
+            "GEMNR": 70814,
+            "STAND": 1023667200000,
+            "ADRKEY": "7081400053",
+            "SNAME": "Achfeld",
+            "PLZ": 6611,
+            "GEMNAME": "Heiterwang",
+            "HNR": "14",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1324155
+        },
+        "geometry": {
+            "y": 256684.7781000007,
+            "x": 30559.034300000407
+        }
+    },
+    {
+        "attributes": {
+            "FID": 112478,
+            "GEMNR": 70820,
+            "STAND": 1284595200000,
+            "ADRKEY": "7082000471",
+            "SNAME": "Lechtaler Straße",
+            "PLZ": 6600,
+            "GEMNAME": "Lechaschau",
+            "HNR": "41",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1385375
+        },
+        "geometry": {
+            "y": 260360.1802999992,
+            "x": 27782.69000000041
+        }
+    },
+    {
+        "attributes": {
+            "FID": 112555,
+            "GEMNR": 70827,
+            "STAND": 998870400000,
+            "ADRKEY": "7082700185",
+            "SNAME": "Oberpinswang",
+            "PLZ": 6600,
+            "GEMNAME": "Pinswang",
+            "HNR": "4",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1344520
+        },
+        "geometry": {
+            "y": 265783.30370000005,
+            "x": 27061.79669999983
+        }
+    },
+    {
+        "attributes": {
+            "FID": 112754,
+            "GEMNR": 70824,
+            "STAND": 1397779200000,
+            "ADRKEY": "7082400073",
+            "SNAME": "Nesselwängle",
+            "PLZ": 6672,
+            "GEMNAME": "Nesselwängle",
+            "HNR": "95",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1463489
+        },
+        "geometry": {
+            "y": 260792.01579999924,
+            "x": 20201.344299999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 112948,
+            "GEMNR": 70318,
+            "STAND": 1370044800000,
+            "ADRKEY": "7031800106",
+            "SNAME": "Oberauweg",
+            "PLZ": 6402,
+            "GEMNAME": "Hatting",
+            "HNR": "3a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1466290
+        },
+        "geometry": {
+            "y": 238127.95350000076,
+            "x": 63120.90189999994
+        }
+    },
+    {
+        "attributes": {
+            "FID": 113103,
+            "GEMNR": 70341,
+            "STAND": 1160697600000,
+            "ADRKEY": "7034100537",
+            "SNAME": "Pfons",
+            "PLZ": 6143,
+            "GEMNAME": "Pfons",
+            "HNR": "8c",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1235964
+        },
+        "geometry": {
+            "y": 223138.78350000083,
+            "x": 85346.83990000002
+        }
+    },
+    {
+        "attributes": {
+            "FID": 114079,
+            "GEMNR": 70734,
+            "STAND": 1199232000000,
+            "ADRKEY": "7073400585",
+            "SNAME": "Angerweg",
+            "PLZ": 9972,
+            "GEMNAME": "Virgen",
+            "HNR": "32",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1463525
+        },
+        "geometry": {
+            "y": 209252.46270000003,
+            "x": 162588.66830000002
+        }
+    },
+    {
+        "attributes": {
+            "FID": 114251,
+            "GEMNR": 70328,
+            "STAND": 1052179200000,
+            "ADRKEY": "7032800370",
+            "SNAME": "Waldrasterweg",
+            "PLZ": 6142,
+            "GEMNAME": "Mieders",
+            "HNR": "19",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1363558
+        },
+        "geometry": {
+            "y": 225153.39440000057,
+            "x": 79229.10589999985
+        }
+    },
+    {
+        "attributes": {
+            "FID": 115693,
+            "GEMNR": 70220,
+            "STAND": 1221696000000,
+            "ADRKEY": "7022005990",
+            "SNAME": "Seenplattenweg",
+            "PLZ": 6456,
+            "GEMNAME": "Sölden",
+            "HNR": "9b",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1422893
+        },
+        "geometry": {
+            "y": 192840.33000000007,
+            "x": 52975.75
+        }
+    },
+    {
+        "attributes": {
+            "FID": 115909,
+            "GEMNR": 70312,
+            "STAND": 1006300800000,
+            "ADRKEY": "7031200306",
+            "SNAME": "Bachweg",
+            "PLZ": 6091,
+            "GEMNAME": "Götzens",
+            "HNR": "3",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1291507
+        },
+        "geometry": {
+            "y": 233377.09740000032,
+            "x": 74680.06759999972
+        }
+    },
+    {
+        "attributes": {
+            "FID": 117512,
+            "GEMNR": 70726,
+            "STAND": 1063065600000,
+            "ADRKEY": "7072600244",
+            "SNAME": "Moos",
+            "PLZ": 9962,
+            "GEMNAME": "St. Veit in Defereggen",
+            "HNR": "19",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1386000
+        },
+        "geometry": {
+            "y": 201030.59300000034,
+            "x": 162906.41089999955
+        }
+    },
+    {
+        "attributes": {
+            "FID": 117681,
+            "GEMNR": 70212,
+            "STAND": 1166659200000,
+            "ADRKEY": "7021200125",
+            "SNAME": "Karl-Mayr-Straße",
+            "PLZ": 6465,
+            "GEMNAME": "Nassereith",
+            "HNR": "27",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1418706
+        },
+        "geometry": {
+            "y": 241853.42149999924,
+            "x": 38139.94610000029
+        }
+    },
+    {
+        "attributes": {
+            "FID": 117911,
+            "GEMNR": 70601,
+            "STAND": 1337731200000,
+            "ADRKEY": "7060100157",
+            "SNAME": "Faggen",
+            "PLZ": 6525,
+            "GEMNAME": "Faggen",
+            "HNR": "34",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1320113
+        },
+        "geometry": {
+            "y": 215384.59710000083,
+            "x": 25982.223799999803
+        }
+    },
+    {
+        "attributes": {
+            "FID": 119932,
+            "GEMNR": 70603,
+            "STAND": 1043280000000,
+            "ADRKEY": "7060300446",
+            "SNAME": "Falsinsweg",
+            "PLZ": 6533,
+            "GEMNAME": "Fiss",
+            "HNR": "21",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1237313
+        },
+        "geometry": {
+            "y": 212925.18119999953,
+            "x": 22637.80960000027
+        }
+    },
+    {
+        "attributes": {
+            "FID": 119957,
+            "GEMNR": 70502,
+            "STAND": 1362960000000,
+            "ADRKEY": "7050200208",
+            "SNAME": "Innstraße",
+            "PLZ": 6321,
+            "GEMNAME": "Angath",
+            "HNR": "10",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1466876
+        },
+        "geometry": {
+            "y": 264644.73340000026,
+            "x": 130688.12999999989
+        }
+    },
+    {
+        "attributes": {
+            "FID": 120112,
+            "GEMNR": 70828,
+            "STAND": 995241600000,
+            "ADRKEY": "7082801025",
+            "SNAME": "Am Kanal",
+            "PLZ": 6600,
+            "GEMNAME": "Reutte",
+            "HNR": "27a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1338158
+        },
+        "geometry": {
+            "y": 260192.6174999997,
+            "x": 28506.700000000186
+        }
+    },
+    {
+        "attributes": {
+            "FID": 121120,
+            "GEMNR": 70815,
+            "STAND": 1211500800000,
+            "ADRKEY": "7081500055",
+            "SNAME": "Hinterhornbach",
+            "PLZ": 6646,
+            "GEMNAME": "Hinterhornbach",
+            "HNR": "27",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1228362
+        },
+        "geometry": {
+            "y": 246575.0504999999,
+            "x": 8830.85599999968
+        }
+    },
+    {
+        "attributes": {
+            "FID": 122606,
+            "GEMNR": 70934,
+            "STAND": 1253750400000,
+            "ADRKEY": "7093401621",
+            "SNAME": "Lanersbach",
+            "PLZ": 6293,
+            "GEMNAME": "Tux",
+            "HNR": "376b",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1351814
+        },
+        "geometry": {
+            "y": 225337.1099999994,
+            "x": 106061.4299999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 122780,
+            "GEMNR": 70215,
+            "STAND": 1037750400000,
+            "ADRKEY": "7021500239",
+            "SNAME": "Gschlenz",
+            "PLZ": 6421,
+            "GEMNAME": "Rietz",
+            "HNR": "9",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1352729
+        },
+        "geometry": {
+            "y": 238964.50730000064,
+            "x": 52381.18939999957
+        }
+    },
+    {
+        "attributes": {
+            "FID": 125130,
+            "GEMNR": 70626,
+            "STAND": 969753600000,
+            "ADRKEY": "7062600430",
+            "SNAME": "Stanz bei Landeck",
+            "PLZ": 6500,
+            "GEMNAME": "Stanz bei Landeck",
+            "HNR": "57/1",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1334796
+        },
+        "geometry": {
+            "y": 223322.35060000047,
+            "x": 16700.78770000022
+        }
+    },
+    {
+        "attributes": {
+            "FID": 125171,
+            "GEMNR": 70414,
+            "STAND": 1113177600000,
+            "ADRKEY": "7041400183",
+            "SNAME": "Griesbachweg",
+            "PLZ": 6370,
+            "GEMNAME": "Reith bei Kitzbühel",
+            "HNR": "30",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1460271
+        },
+        "geometry": {
+            "y": 260403.40029999986,
+            "x": 151762.14599999972
+        }
+    },
+    {
+        "attributes": {
+            "FID": 125175,
+            "GEMNR": 70509,
+            "STAND": 973641600000,
+            "ADRKEY": "7050900827",
+            "SNAME": "Kirchbichl",
+            "PLZ": 6352,
+            "GEMNAME": "Ellmau",
+            "HNR": "47",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1358082
+        },
+        "geometry": {
+            "y": 265075.5636,
+            "x": 148218.0231999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 127814,
+            "GEMNR": 70623,
+            "STAND": 1343001600000,
+            "ADRKEY": "7062300632",
+            "SNAME": "Labebene",
+            "PLZ": 6555,
+            "GEMNAME": "See",
+            "HNR": "80",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1335800
+        },
+        "geometry": {
+            "y": 214186.33990000002,
+            "x": 4852.44010000024
+        }
+    },
+    {
+        "attributes": {
+            "FID": 130403,
+            "GEMNR": 70314,
+            "STAND": 1049673600000,
+            "ADRKEY": "7031400037",
+            "SNAME": "Gries",
+            "PLZ": 6182,
+            "GEMNAME": "Gries im Sellrain",
+            "HNR": "7b",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1291225
+        },
+        "geometry": {
+            "y": 229380.33809999935,
+            "x": 63700.98039999977
+        }
+    },
+    {
+        "attributes": {
+            "FID": 130424,
+            "GEMNR": 70211,
+            "STAND": 984960000000,
+            "ADRKEY": "7021100013",
+            "SNAME": "Königsgasse",
+            "PLZ": 6423,
+            "GEMNAME": "Mötz",
+            "HNR": "72",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1336259
+        },
+        "geometry": {
+            "y": 239068.8895999994,
+            "x": 47080.09140000027
+        }
+    },
+    {
+        "attributes": {
+            "FID": 130533,
+            "GEMNR": 70609,
+            "STAND": 1334707200000,
+            "ADRKEY": "7060901861",
+            "SNAME": "Brandau",
+            "PLZ": 6555,
+            "GEMNAME": "Kappl",
+            "HNR": "173",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1413030
+        },
+        "geometry": {
+            "y": 213987.9422999993,
+            "x": 4174.643600000069
+        }
+    },
+    {
+        "attributes": {
+            "FID": 130552,
+            "GEMNR": 70501,
+            "STAND": 1138147200000,
+            "ADRKEY": "7050101124",
+            "SNAME": "Alpbach",
+            "PLZ": 6236,
+            "GEMNAME": "Alpbach",
+            "HNR": "390",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1459304
+        },
+        "geometry": {
+            "y": 252796.2703000009,
+            "x": 121285.7600999996
+        }
+    },
+    {
+        "attributes": {
+            "FID": 131132,
+            "GEMNR": 70216,
+            "STAND": 1379462400000,
+            "ADRKEY": "7021600664",
+            "SNAME": "Steinacker",
+            "PLZ": 6426,
+            "GEMNAME": "Roppen",
+            "HNR": "21",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1335443
+        },
+        "geometry": {
+            "y": 230797.97000000067,
+            "x": 36311.080000000075
+        }
+    },
+    {
+        "attributes": {
+            "FID": 132991,
+            "GEMNR": 70831,
+            "STAND": 1063065600000,
+            "ADRKEY": "7083100241",
+            "SNAME": "Steeg",
+            "PLZ": 6655,
+            "GEMNAME": "Steeg",
+            "HNR": "10a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1223155
+        },
+        "geometry": {
+            "y": 233642.1037000008,
+            "x": -3087.3918000003323
+        }
+    },
+    {
+        "attributes": {
+            "FID": 133767,
+            "GEMNR": 70207,
+            "STAND": 1345507200000,
+            "ADRKEY": "7020700089",
+            "SNAME": "Zirm",
+            "PLZ": 6463,
+            "GEMNAME": "Karrösten",
+            "HNR": "26",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1332221
+        },
+        "geometry": {
+            "y": 232042.50100000016,
+            "x": 33154.7659
+        }
+    },
+    {
+        "attributes": {
+            "FID": 135589,
+            "GEMNR": 70702,
+            "STAND": 1196121600000,
+            "ADRKEY": "7070200500",
+            "SNAME": "Ainet",
+            "PLZ": 9951,
+            "GEMNAME": "Ainet",
+            "HNR": "20a",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1435496
+        },
+        "geometry": {
+            "y": 194396.52850000001,
+            "x": 179849.3058000002
+        }
+    },
+    {
+        "attributes": {
+            "FID": 135628,
+            "GEMNR": 70903,
+            "STAND": 970185600000,
+            "ADRKEY": "7090300219",
+            "SNAME": "Pignellen",
+            "PLZ": 6290,
+            "GEMNAME": "Brandberg",
+            "HNR": "134",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1351218
+        },
+        "geometry": {
+            "y": 225461.8127999995,
+            "x": 116809.72410000023
+        }
+    },
+    {
+        "attributes": {
+            "FID": 138122,
+            "GEMNR": 70727,
+            "STAND": 1315872000000,
+            "ADRKEY": "7072700155",
+            "SNAME": "Plone",
+            "PLZ": 9954,
+            "GEMNAME": "Schlaiten",
+            "HNR": "23",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1325646
+        },
+        "geometry": {
+            "y": 194974.12140000053,
+            "x": 178314.74969999958
+        }
+    },
+    {
+        "attributes": {
+            "FID": 138200,
+            "GEMNR": 70313,
+            "STAND": 1020643200000,
+            "ADRKEY": "7031300074",
+            "SNAME": "Brenner",
+            "PLZ": 6156,
+            "GEMNAME": "Gries am Brenner",
+            "HNR": "259",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1326030
+        },
+        "geometry": {
+            "y": 208161.23839999922,
+            "x": 89532.10900000017
+        }
+    },
+    {
+        "attributes": {
+            "FID": 138766,
+            "GEMNR": 70619,
+            "STAND": 1193702400000,
+            "ADRKEY": "7061900572",
+            "SNAME": "Moosweg",
+            "PLZ": 6522,
+            "GEMNAME": "Prutz",
+            "HNR": "14",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1428210
+        },
+        "geometry": {
+            "y": 214949.0203000009,
+            "x": 25125.78029999975
+        }
+    },
+    {
+        "attributes": {
+            "FID": 140704,
+            "GEMNR": 70711,
+            "STAND": 1245283200000,
+            "ADRKEY": "7071100145",
+            "SNAME": "Iselsberg",
+            "PLZ": 9992,
+            "GEMNAME": "Iselsberg-Stronach",
+            "HNR": "94",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1258712
+        },
+        "geometry": {
+            "y": 192123.07459999993,
+            "x": 191929.61459999997
+        }
+    },
+    {
+        "attributes": {
+            "FID": 140792,
+            "GEMNR": 70326,
+            "STAND": 1046822400000,
+            "ADRKEY": "7032601055",
+            "SNAME": "Seewald",
+            "PLZ": 6105,
+            "GEMNAME": "Leutasch",
+            "HNR": "30",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1467552
+        },
+        "geometry": {
+            "y": 247816.39650000073,
+            "x": 62452.29860000033
+        }
+    },
+    {
+        "attributes": {
+            "FID": 141627,
+            "GEMNR": 70917,
+            "STAND": 1331856000000,
+            "ADRKEY": "7091701033",
+            "SNAME": "Josef-Sattler-Straße",
+            "PLZ": 6200,
+            "GEMNAME": "Jenbach",
+            "HNR": "8",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1436388
+        },
+        "geometry": {
+            "y": 251489.1219999995,
+            "x": 108813.7388000004
+        }
+    },
+    {
+        "attributes": {
+            "FID": 143007,
+            "GEMNR": 70708,
+            "STAND": 1253836800000,
+            "ADRKEY": "7070800383",
+            "SNAME": "Zettersfeldstraße",
+            "PLZ": 9905,
+            "GEMNAME": "Gaimberg",
+            "HNR": "24",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1386888
+        },
+        "geometry": {
+            "y": 191800.8225999996,
+            "x": 186431.98730000015
+        }
+    },
+    {
+        "attributes": {
+            "FID": 143363,
+            "GEMNR": 70418,
+            "STAND": 1225152000000,
+            "ADRKEY": "7041800367",
+            "SNAME": "Kohlentalstraße",
+            "PLZ": 6385,
+            "GEMNAME": "Schwendt",
+            "HNR": "10",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1244486
+        },
+        "geometry": {
+            "y": 277430.21089999937,
+            "x": 154358.51460000034
+        }
+    },
+    {
+        "attributes": {
+            "FID": 143452,
+            "GEMNR": 70721,
+            "STAND": 962236800000,
+            "ADRKEY": "7072100278",
+            "SNAME": "Dorf",
+            "PLZ": 9942,
+            "GEMNAME": "Obertilliach",
+            "HNR": "21",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1245916
+        },
+        "geometry": {
+            "y": 177013.44140000083,
+            "x": 174700.8816999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 144746,
+            "GEMNR": 70523,
+            "STAND": 1385078400000,
+            "ADRKEY": "7052300228",
+            "SNAME": "Hölzlfeld",
+            "PLZ": 6347,
+            "GEMNAME": "Rettenschöss",
+            "HNR": "9",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1397870
+        },
+        "geometry": {
+            "y": 281526.29759999923,
+            "x": 145449.88040000014
+        }
+    },
+    {
+        "attributes": {
+            "FID": 146233,
+            "GEMNR": 70213,
+            "STAND": 991180800000,
+            "ADRKEY": "7021300057",
+            "SNAME": "Holzleiten",
+            "PLZ": 6416,
+            "GEMNAME": "Obsteig",
+            "HNR": "75",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1418420
+        },
+        "geometry": {
+            "y": 241330.59789999947,
+            "x": 41521.25829999987
+        }
+    },
+    {
+        "attributes": {
+            "FID": 146842,
+            "GEMNR": 70725,
+            "STAND": 1301270400000,
+            "ADRKEY": "7072500038",
+            "SNAME": "Oberleibnig",
+            "PLZ": 9952,
+            "GEMNAME": "St. Johann im Walde",
+            "HNR": "84",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1259408
+        },
+        "geometry": {
+            "y": 200310.4293000009,
+            "x": 175361.63460000046
+        }
+    },
+    {
+        "attributes": {
+            "FID": 146939,
+            "GEMNR": 70323,
+            "STAND": 1229299200000,
+            "ADRKEY": "7032300502",
+            "SNAME": "Klotzweg",
+            "PLZ": 6115,
+            "GEMNAME": "Kolsassberg",
+            "HNR": "5",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1331903
+        },
+        "geometry": {
+            "y": 237582.1026000008,
+            "x": 101186.73940000031
+        }
+    },
+    {
+        "attributes": {
+            "FID": 147072,
+            "GEMNR": 70613,
+            "STAND": 1216252800000,
+            "ADRKEY": "7061300250",
+            "SNAME": "Razilweg",
+            "PLZ": 6532,
+            "GEMNAME": "Ladis",
+            "HNR": "35",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1356799
+        },
+        "geometry": {
+            "y": 214730.9913999997,
+            "x": 23663.607200000435
+        }
+    },
+    {
+        "attributes": {
+            "FID": 148890,
+            "GEMNR": 70345,
+            "STAND": 980726400000,
+            "ADRKEY": "7034500010",
+            "SNAME": "Obere Hochstraße",
+            "PLZ": 6074,
+            "GEMNAME": "Rinn",
+            "HNR": "15",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1236982
+        },
+        "geometry": {
+            "y": 236790.6395999994,
+            "x": 89219.83100000024
+        }
+    },
+    {
+        "attributes": {
+            "FID": 148963,
+            "GEMNR": 70926,
+            "STAND": 1329177600000,
+            "ADRKEY": "7092600029",
+            "SNAME": "Alte Landstraße",
+            "PLZ": 6130,
+            "GEMNAME": "Schwaz",
+            "HNR": "21",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1420364
+        },
+        "geometry": {
+            "y": 247808.25439999998,
+            "x": 105946.91559999995
+        }
+    },
+    {
+        "attributes": {
+            "FID": 149008,
+            "GEMNR": 70826,
+            "STAND": 976147200000,
+            "ADRKEY": "7082600333",
+            "SNAME": "Hüttenbichl",
+            "PLZ": 6600,
+            "GEMNAME": "Pflach",
+            "HNR": "8",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1383299
+        },
+        "geometry": {
+            "y": 263349.4236999992,
+            "x": 29246.73929999955
+        }
+    },
+    {
+        "attributes": {
+            "FID": 149133,
+            "GEMNR": 70911,
+            "STAND": 1211155200000,
+            "ADRKEY": "7091100177",
+            "SNAME": "Gallzein",
+            "PLZ": 6222,
+            "GEMNAME": "Gallzein",
+            "HNR": "37f",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1468428
+        },
+        "geometry": {
+            "y": 247940.19019999914,
+            "x": 106492.91999999993
+        }
+    },
+    {
+        "attributes": {
+            "FID": 149631,
+            "GEMNR": 70520,
+            "STAND": 1245283200000,
+            "ADRKEY": "7052000282",
+            "SNAME": "Dorfstraße",
+            "PLZ": 6241,
+            "GEMNAME": "Radfeld",
+            "HNR": "62",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1331283
+        },
+        "geometry": {
+            "y": 257617.43459999934,
+            "x": 118948.8975999998
+        }
+    },
+    {
+        "attributes": {
+            "FID": 151528,
+            "GEMNR": 70616,
+            "STAND": 1255478400000,
+            "ADRKEY": "7061601018",
+            "SNAME": "Pettneu am Arlberg",
+            "PLZ": 6574,
+            "GEMNAME": "Pettneu am Arlberg",
+            "HNR": "201f",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1245415
+        },
+        "geometry": {
+            "y": 223036.86180000007,
+            "x": 17.999099999666214
+        }
+    },
+    {
+        "attributes": {
+            "FID": 154075,
+            "GEMNR": 70701,
+            "STAND": 1380585600000,
+            "ADRKEY": "7070100202",
+            "SNAME": "Abfaltersbach",
+            "PLZ": 9913,
+            "GEMNAME": "Abfaltersbach",
+            "HNR": "155",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1428005
+        },
+        "geometry": {
+            "y": 181883.77720000036,
+            "x": 167840.60940000042
+        }
+    },
+    {
+        "attributes": {
+            "FID": 154263,
+            "GEMNR": 70338,
+            "STAND": 1005004800000,
+            "ADRKEY": "7033800218",
+            "SNAME": "Rinnerhöfe",
+            "PLZ": 6082,
+            "GEMNAME": "Patsch",
+            "HNR": "3",
+            "OBJEKT": "ADR",
+            "OBJECTID": 1325761
+        },
+        "geometry": {
+            "y": 228039.82249999978,
+            "x": 82560.54200000037
+        }
+    },
+    {
+        "attributes": {
+            "FID": 156240,
+            "GEMNR": 70514,
+            "STAND": 1199750400000,
+            "ADRKEY": "7051401281",
+            "SNAME": "Georg-Rom-Weg",
+            "PLZ": 6250,
+            "GEMNAME": "Kundl",
+            "HNR": "30",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1290212
+        },
+        "geometry": {
+            "y": 260892.70270000026,
+            "x": 124345.82409999985
+        }
+    },
+    {
+        "attributes": {
+            "FID": 156592,
+            "GEMNR": 70405,
+            "STAND": 992390400000,
+            "ADRKEY": "7040500398",
+            "SNAME": "Feistenau",
+            "PLZ": 6395,
+            "GEMNAME": "Hochfilzen",
+            "HNR": "36",
+            "OBJEKT": "ADRO",
+            "OBJECTID": 1303803
+        },
+        "geometry": {
+            "y": 260706.94700000063,
+            "x": 171082.78660000023
+        }
+    }
+]}
