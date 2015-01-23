@@ -148,9 +148,9 @@ $(document).ready(function () {
 
     function waitNewQuestion() {
         if ($('#lernmode:checked')) {
-            $('body').on('click', function() {
-                newQuestion();
-            });
+//            $('body').one('click', function() {
+//                newQuestion();
+//            }); 
         } else {
             setTimeout(function () {
                 newQuestion();
