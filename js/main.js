@@ -15,10 +15,15 @@ $(document).ready(function () {
        
         var featureOpts = [
         {
-          featureType: 'administrative.province',
-          stylers: [
-            { color: '#890000' }
-          ]
+            featureType: 'administrative.province',
+            stylers: [
+                { color: '#890000' }
+            ]},
+        {   
+            elementType: "labels",
+            stylers: [
+                {"visibility": "off"}
+            ]
         }
         ]; 
 
@@ -30,14 +35,6 @@ $(document).ready(function () {
             disableDoubleClickZoom: true,
             zoomControl: false,
             scrollwheel: false,
-            styles: [
-                {
-                    "elementType": "labels",
-                    "stylers": [
-                        {"visibility": "off"}
-                    ]
-                }
-            ],
             mapTypeControlOptions: {
             mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
             },
