@@ -1,4 +1,4 @@
-/*test2*/
+//test
 
 $(document).ready(function () {
     var map;
