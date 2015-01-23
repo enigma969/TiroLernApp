@@ -12,7 +12,7 @@ $(document).ready(function () {
     var MY_MAPTYPE_ID = 'custom_style';
 
     function initialize() {
-        
+       
         var featureOpts = [
         {
           featureType: 'administrative.province',
@@ -20,20 +20,32 @@ $(document).ready(function () {
             { color: '#890000' }
           ]
         }
-        ];
+        ]; 
 
         var mapOptions = {
-            zoom: 9,
             center: new google.maps.LatLng(47.252978, 11.398447),
+            zoom: 9, 
+            disableDefaultUI: true,
+            draggable: false,
+            disableDoubleClickZoom: true,
+            zoomControl: false,
+            scrollwheel: false,
+            styles: [
+                {
+                    "elementType": "labels",
+                    "stylers": [
+                        {"visibility": "off"}
+                    ]
+                }
+            ],
             mapTypeControlOptions: {
-                mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
+            mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
             },
-            mapTypeId: MY_MAPTYPE_ID
+            mapTypeId: MY_MAPTYPE_ID 
         };
         
         map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
-        
-        
+         
         var styledMapOptions = {
         name: 'Custom Style'
         };
@@ -157,15 +169,15 @@ $(document).ready(function () {
     }
 
     function waitNewQuestion() {
-        if ($('#lernmode:checked')) {
+//        if ($('#lernmode:checked')) {
 //            $('body').one('click', function() {
 //                newQuestion();
 //            }); 
-        } else {
+//       } else {
             setTimeout(function () {
                 newQuestion();
             }, 5000);
-        }
+//       }
     }
 
 
