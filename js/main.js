@@ -13,7 +13,7 @@ $(document).ready(function () {
     function initialize() {
         var mapOptions = {
             center: new google.maps.LatLng(47.252978, 11.398447),
-            zoom: 9,
+            zoom: 9, //test
             disableDefaultUI: true,
             mapTypeId: google.maps.MapTypeId.MAP,
             draggable: false,
